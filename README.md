@@ -57,7 +57,7 @@ Status   :  always_hacking = true 🐱
 ---
 
 ```
-    /\     /\
+     /\     /\
     (  o o  )    "I don't just find vulnerabilities —
     =( Y )=       I build systems resilient against them."
      )   (
@@ -70,7 +70,7 @@ Status   :  always_hacking = true 🐱
 
 ---
 
-### 🔴 Rakshika — Women's Safety Platform
+### 🔴 Rakshika — Women's Safety Platform &nbsp; `🟢 LIVE`
 
 > **"You Are Never Alone"** — Indian Regional Protection Protocol
 
@@ -88,6 +88,8 @@ Status   :  always_hacking = true 🐱
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-f5f0eb?style=flat-square&logo=googlemaps&logoColor=3d2b1f)
 ![Web Speech](https://img.shields.io/badge/Web_Speech_API-e8d5b7?style=flat-square&logoColor=3d2b1f)
 
+🔗 **[View Live →](https://rakshika-tau.vercel.app/)**
+
 ---
 
 ### ⚖️ JusticeFlowX — Criminal Verification System &nbsp; `🟢 LIVE`
@@ -104,7 +106,7 @@ Status   :  always_hacking = true 🐱
 ![Netlify](https://img.shields.io/badge/Netlify-f5f0eb?style=flat-square&logo=netlify&logoColor=3d2b1f)
 ![AI](https://img.shields.io/badge/AI_Integration-e8d5b7?style=flat-square&logoColor=3d2b1f)
 
-🔗 **[View Live →](https://justiceflowverification.netlify.app)**
+🔗 **[View Live →](https://justiceflowwx.netlify.app/)**
 
 ---
 
@@ -198,6 +200,8 @@ Status   :  always_hacking = true 🐱
 
 <br/><br/>
 
+<!-- Streak stats — using demolab (more stable than vercel instance) -->
+<img src="https://streak-stats.demolab.com/?user=Nirmay1-creator&hide_border=true&background=f5f0eb&ring=c49a6c&fire=8b5e3c&currStreakLabel=3d2b1f&sideLabels=3d2b1f&dates=7a5c45&stroke=d4b896&currStreakNum=3d2b1f&sideNums=3d2b1f" />
 
 <br/><br/>
 
