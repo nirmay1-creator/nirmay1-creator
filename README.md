@@ -57,7 +57,7 @@ Status   :  always_hacking = true 🐱
 ---
 
 ```
-     /\     /\
+    /\     /\
     (  o o  )    "I don't just find vulnerabilities —
     =( Y )=       I build systems resilient against them."
      )   (
