@@ -193,19 +193,22 @@ Status   :  always_hacking = true 🐱
 
 <div align="center">
 
-<!-- Contribution graph — works always, no repo requirement -->
+<!-- Contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=f5f0eb&color=5c3d2e&line=c49a6c&point=3d2b1f&area=true&area_color=d4b89644&hide_border=true&custom_title=🌸%20Contribution%20Graph" />
 
 <br/><br/>
 
-<!-- Streak — works always -->
+<!-- Streak stats — using demolab (more stable than vercel instance) -->
 <img src="https://streak-stats.demolab.com/?user=Nirmay1-creator&hide_border=true&background=f5f0eb&ring=c49a6c&fire=8b5e3c&currStreakLabel=3d2b1f&sideLabels=3d2b1f&dates=7a5c45&stroke=d4b896&currStreakNum=3d2b1f&sideNums=3d2b1f" />
 
+<br/><br/>
+
+<!-- GitHub Stats — using public reliable mirror -->
+<img height="165" src="https://gh-readme-stats.vercel.app/api?username=Nirmay1-creator&show_icons=true&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&icon_color=c49a6c&text_color=5c3d2e&cache_seconds=86400" />
+&nbsp;
+<img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Nirmay1-creator&layout=compact&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&text_color=5c3d2e&cache_seconds=86400" />
+
 </div>
-
-<br/>
-
-> 💡 **Stat cards (top languages / total stars) will auto-appear once your repos are made public on GitHub!**
 
 ---
 
@@ -215,21 +218,21 @@ Status   :  always_hacking = true 🐱
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="80" />
+<img src="https://em-content.zobj.net/source/microsoft/379/cherry-blossom_1f338.png" width="80" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="80" />
+<img src="https://em-content.zobj.net/source/microsoft/379/cherry-blossom_1f338.png" width="80" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="55" />
+<img src="https://em-content.zobj.net/source/microsoft/379/paw-prints_1f43e.png" width="55" />
 
 *🌸 Hack silently. Move precisely. Leave no trace. 🌸*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="55" />
+<img src="https://em-content.zobj.net/source/microsoft/379/paw-prints_1f43e.png" width="55" />
 
 </div>
 
