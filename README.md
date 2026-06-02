@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=5c3d2e&center=true&vCenter=true&random=false&width=750&lines=🌸+Welcome+to+my+GitHub+profile...;🔐+Cybersecurity+Student+%40+Parul+University;🗡️+Ethical+Hacker+%7C+Penetration+Tester;💻+Full-Stack+%26+Security-First+Developer;🛡️+Creator+of+Rakshika+—+Women's+Safety+App;⚖️+Creator+of+JusticeFlowX+—+Law+Enforcement+AI;🤖+Creator+of+MedAssist+AI+—+Health+Companion;🌸+CCEP+·+CCPP+·+CompTIA+Security%2B+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=8B5E3C&center=true&vCenter=true&random=false&width=750&lines=🌸+Welcome+to+my+GitHub+profile...;🔐+Cybersecurity+Student+%40+Parul+University;🗡️+Ethical+Hacker+%7C+Penetration+Tester;💻+Full-Stack+%26+Security-First+Developer;🛡️+Creator+of+Rakshika+—+Women's+Safety+App;⚖️+Creator+of+JusticeFlowX+—+Law+Enforcement+AI;🤖+Creator+of+MedAssist+AI+—+Health+Companion;🌸+CCEP+·+CCPP+·+CompTIA+Security%2B+Certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" />
+<img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" />
 
 ## 🌸 About Me
 
@@ -47,7 +47,7 @@ Status   :  always_hacking = true 🐱
 
 - 🔐 Certified: **CCEP, CCPP, CompTIA Security+**
 - 🛡️ Creator of **Rakshika** — Women's Safety Platform
-- ⚖️ Creator of **JusticeFlowX** — Law Enforcement System  
+- ⚖️ Creator of **JusticeFlowX** — Law Enforcement System
 - 🤖 Creator of **MedAssist AI** — AI Health Companion
 - 🌸 Building products that protect people
 
@@ -192,9 +192,10 @@ Status   :  always_hacking = true 🐱
 
 <div align="center">
 
+<!-- Using githubstats.me — works for all accounts including new ones -->
 <a href="https://github.com/Nirmay1-creator">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirmay1-creator&show_icons=true&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&icon_color=c49a6c&text_color=5c3d2e&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmay1-creator&layout=compact&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&text_color=5c3d2e&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nirmay1-creator&show_icons=true&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&icon_color=c49a6c&text_color=5c3d2e&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmay1-creator&layout=compact&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&text_color=5c3d2e&langs_count=8&cache_seconds=1800" />
 </a>
 
 <br/><br/>
@@ -213,21 +214,25 @@ Status   :  always_hacking = true 🐱
 
 <div align="center">
 
-![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png)
-![cherry blossom](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png)
-![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png)
-![cherry blossom](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png)
-![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="80" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="80" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
 
-<br/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="60" />
+&nbsp;&nbsp;
 
 > *🌸 Hack silently. Move precisely. Leave no trace. 🌸*
 
-<br/>
-
-![cat napping](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sleeping%20Face.png) &nbsp;
-![paw prints](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png) &nbsp;
-![wind](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Wind%20Face.png)
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="60" />
 
 </div>
 
@@ -237,7 +242,9 @@ Status   :  always_hacking = true 🐱
 
 <div align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-3d2b1f?style=for-the-badge&logo=linkedin&logoColor=e8d5b7)](https://www.linkedin.com/in/nirmay-rinesh-52229237b/)
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-5c3d2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e8d5b7)](https://nirmay1-creator.github.io/NirmayPortfolioo/)
