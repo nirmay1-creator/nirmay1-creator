@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffb3d1,100:ff85b3&height=200&section=header&text=Nirmay%20Rinesh&fontSize=58&fontColor=6b2d50&fontAlignY=40&desc=🌸%20Cybersecurity%20·%20Ethical%20Hacker%20·%20Full-Stack%20Developer%20🌸&descAlignY=62&descSize=15&descColor=8b3a5a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0eb,30:e8d5b7,60:d4b896,100:c49a6c&height=200&section=header&text=Nirmay%20Rinesh&fontSize=55&fontColor=3d2b1f&fontAlignY=38&desc=🌸%20Cybersecurity%20·%20Ethical%20Hacker%20·%20Full-Stack%20Developer%20🌸&descAlignY=60&descSize=15&descColor=5c3d2e&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=C2185B&center=true&vCenter=true&random=false&width=750&lines=🌸+Welcome+to+my+cozy+corner+of+GitHub...;🔐+Cybersecurity+Student+%40+Parul+University;🗡️+Ethical+Hacker+%7C+Penetration+Tester;💻+Full-Stack+%26+Security-First+Developer;🛡️+Creator+of+Rakshika+—+Women's+Safety+App;⚖️+Creator+of+JusticeFlowX+—+Law+Enforcement+AI;🤖+Creator+of+MedAssist+AI+—+Health+Companion;🌸+CCEP+·+CCPP+·+CompTIA+Security%2B+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=5c3d2e&center=true&vCenter=true&random=false&width=750&lines=🌸+Welcome+to+my+GitHub+profile...;🔐+Cybersecurity+Student+%40+Parul+University;🗡️+Ethical+Hacker+%7C+Penetration+Tester;💻+Full-Stack+%26+Security-First+Developer;🛡️+Creator+of+Rakshika+—+Women's+Safety+App;⚖️+Creator+of+JusticeFlowX+—+Law+Enforcement+AI;🤖+Creator+of+MedAssist+AI+—+Health+Companion;🌸+CCEP+·+CCPP+·+CompTIA+Security%2B+Certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,15 +14,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d63384?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmay-rinesh-52229237b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nirmay.ex-ff69b4?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://nirmay1-creator.github.io/NirmayPortfolioo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Nirmay1--creator-c2185b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirmay1-creator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3d2b1f?style=for-the-badge&logo=linkedin&logoColor=e8d5b7)](https://www.linkedin.com/in/nirmay-rinesh-52229237b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nirmay.ex-5c3d2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e8d5b7)](https://nirmay1-creator.github.io/NirmayPortfolioo/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nirmay1--creator-3d2b1f?style=for-the-badge&logo=github&logoColor=e8d5b7)](https://github.com/Nirmay1-creator)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="cat hacker"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" />
 
 ## 🌸 About Me
 
@@ -47,7 +47,7 @@ Status   :  always_hacking = true 🐱
 
 - 🔐 Certified: **CCEP, CCPP, CompTIA Security+**
 - 🛡️ Creator of **Rakshika** — Women's Safety Platform
-- ⚖️ Creator of **JusticeFlowX** — Law Enforcement System
+- ⚖️ Creator of **JusticeFlowX** — Law Enforcement System  
 - 🤖 Creator of **MedAssist AI** — AI Health Companion
 - 🌸 Building products that protect people
 
@@ -55,15 +55,23 @@ Status   :  always_hacking = true 🐱
 
 ---
 
-## 🐾 My Projects
+```
+     /\     /\
+    (  o o  )   "I don't just find vulnerabilities —
+    =( Y )=      I build systems resilient against them."
+     )   (
+    (_)-(_)    🌸 ~ nirmay
+```
+
+---
+
+## 🐾 Projects
 
 ---
 
 ### 🔴 Rakshika — Women's Safety Platform
 
 > **"You Are Never Alone"** — Indian Regional Protection Protocol
-
-A full-stack safety companion with AI routing, offline maps, cryptographic location tracking and hands-free voice alerts.
 
 | 🌸 Feature | Description |
 |------------|-------------|
@@ -74,16 +82,14 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 | 📁 Legal Dossier | E2EE encrypted evidence pack |
 | 🔭 Telemetry | Crypto GPS ±50m precision |
 
-![React](https://img.shields.io/badge/React-ffd6e7?style=flat-square&logo=react&logoColor=c2185b)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=flat-square&logo=javascript&logoColor=c2185b)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-ffd6e7?style=flat-square&logo=googlemaps&logoColor=c2185b)
-![Web Speech](https://img.shields.io/badge/Web_Speech_API-fff0f5?style=flat-square&logoColor=c2185b)
+![React](https://img.shields.io/badge/React-f5f0eb?style=flat-square&logo=react&logoColor=3d2b1f)
+![JavaScript](https://img.shields.io/badge/JavaScript-e8d5b7?style=flat-square&logo=javascript&logoColor=3d2b1f)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-f5f0eb?style=flat-square&logo=googlemaps&logoColor=3d2b1f)
+![Web Speech](https://img.shields.io/badge/Web_Speech_API-e8d5b7?style=flat-square&logoColor=3d2b1f)
 
 ---
 
 ### ⚖️ JusticeFlowX — Criminal Verification System &nbsp; `🟢 LIVE`
-
-> Cyberpunk UI. Real law enforcement utility.
 
 | 🌸 Feature | Description |
 |------------|-------------|
@@ -92,10 +98,10 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 | 🔒 Vault | AI evidence integrity scan |
 | 📋 Custody | Full chain-of-custody tracker |
 
-![HTML CSS](https://img.shields.io/badge/HTML%2FCSS-ffd6e7?style=flat-square&logo=html5&logoColor=c2185b)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=flat-square&logo=javascript&logoColor=c2185b)
-![Netlify](https://img.shields.io/badge/Netlify-ffd6e7?style=flat-square&logo=netlify&logoColor=c2185b)
-![AI](https://img.shields.io/badge/AI_Integration-fff0f5?style=flat-square&logoColor=c2185b)
+![HTML CSS](https://img.shields.io/badge/HTML%2FCSS-f5f0eb?style=flat-square&logo=html5&logoColor=3d2b1f)
+![JavaScript](https://img.shields.io/badge/JavaScript-e8d5b7?style=flat-square&logo=javascript&logoColor=3d2b1f)
+![Netlify](https://img.shields.io/badge/Netlify-f5f0eb?style=flat-square&logo=netlify&logoColor=3d2b1f)
+![AI](https://img.shields.io/badge/AI_Integration-e8d5b7?style=flat-square&logoColor=3d2b1f)
 
 🔗 **[View Live →](https://justiceflowverification.netlify.app)**
 
@@ -110,16 +116,16 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 | 💊 Medicine | Compliance tracker & reminders |
 | 🚨 Emergency | Quick AI response module |
 
-![React](https://img.shields.io/badge/React-ffd6e7?style=flat-square&logo=react&logoColor=c2185b)
-![Gemini](https://img.shields.io/badge/Gemini_API-fff0f5?style=flat-square&logo=google&logoColor=c2185b)
-![Node.js](https://img.shields.io/badge/Node.js-ffd6e7?style=flat-square&logo=node.js&logoColor=c2185b)
+![React](https://img.shields.io/badge/React-f5f0eb?style=flat-square&logo=react&logoColor=3d2b1f)
+![Gemini](https://img.shields.io/badge/Gemini_API-e8d5b7?style=flat-square&logo=google&logoColor=3d2b1f)
+![Node.js](https://img.shields.io/badge/Node.js-f5f0eb?style=flat-square&logo=node.js&logoColor=3d2b1f)
 
 ---
 
 **🔭 Coming Soon:**
 ```
 🔧 Security Tool    →  Coming Soon
-🕵️ OSINT Framework  →  In Progress 🔨
+🕵️  OSINT Framework  →  In Progress 🔨
 🌐 Full-Stack App   →  Coming Soon
 🤖 AI Integration   →  Planned 📐
 ```
@@ -152,31 +158,31 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-ffd6e7?style=for-the-badge&logo=python&logoColor=c2185b)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=c2185b)
-![Java](https://img.shields.io/badge/Java-ffd6e7?style=for-the-badge&logo=openjdk&logoColor=c2185b)
-![C](https://img.shields.io/badge/C-fff0f5?style=for-the-badge&logo=c&logoColor=c2185b)
-![C++](https://img.shields.io/badge/C++-ffd6e7?style=for-the-badge&logo=cplusplus&logoColor=c2185b)
-![Rust](https://img.shields.io/badge/Rust-fff0f5?style=for-the-badge&logo=rust&logoColor=c2185b)
-![HTML5](https://img.shields.io/badge/HTML5-ffd6e7?style=for-the-badge&logo=html5&logoColor=c2185b)
-![CSS3](https://img.shields.io/badge/CSS3-fff0f5?style=for-the-badge&logo=css3&logoColor=c2185b)
-![SQL](https://img.shields.io/badge/SQL-ffd6e7?style=for-the-badge&logo=mysql&logoColor=c2185b)
+![Python](https://img.shields.io/badge/Python-f5f0eb?style=for-the-badge&logo=python&logoColor=3d2b1f)
+![JavaScript](https://img.shields.io/badge/JavaScript-e8d5b7?style=for-the-badge&logo=javascript&logoColor=3d2b1f)
+![Java](https://img.shields.io/badge/Java-f5f0eb?style=for-the-badge&logo=openjdk&logoColor=3d2b1f)
+![C](https://img.shields.io/badge/C-e8d5b7?style=for-the-badge&logo=c&logoColor=3d2b1f)
+![C++](https://img.shields.io/badge/C++-f5f0eb?style=for-the-badge&logo=cplusplus&logoColor=3d2b1f)
+![Rust](https://img.shields.io/badge/Rust-e8d5b7?style=for-the-badge&logo=rust&logoColor=3d2b1f)
+![HTML5](https://img.shields.io/badge/HTML5-f5f0eb?style=for-the-badge&logo=html5&logoColor=3d2b1f)
+![CSS3](https://img.shields.io/badge/CSS3-e8d5b7?style=for-the-badge&logo=css3&logoColor=3d2b1f)
+![SQL](https://img.shields.io/badge/SQL-f5f0eb?style=for-the-badge&logo=mysql&logoColor=3d2b1f)
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/React-fff0f5?style=for-the-badge&logo=react&logoColor=c2185b)
-![Node.js](https://img.shields.io/badge/Node.js-ffd6e7?style=for-the-badge&logo=node.js&logoColor=c2185b)
-![Linux](https://img.shields.io/badge/Linux-fff0f5?style=for-the-badge&logo=linux&logoColor=c2185b)
-![Git](https://img.shields.io/badge/Git-ffd6e7?style=for-the-badge&logo=git&logoColor=c2185b)
-![Netlify](https://img.shields.io/badge/Netlify-fff0f5?style=for-the-badge&logo=netlify&logoColor=c2185b)
-![VS Code](https://img.shields.io/badge/VS_Code-ffd6e7?style=for-the-badge&logo=visual-studio-code&logoColor=c2185b)
+![React](https://img.shields.io/badge/React-e8d5b7?style=for-the-badge&logo=react&logoColor=3d2b1f)
+![Node.js](https://img.shields.io/badge/Node.js-f5f0eb?style=for-the-badge&logo=node.js&logoColor=3d2b1f)
+![Linux](https://img.shields.io/badge/Linux-e8d5b7?style=for-the-badge&logo=linux&logoColor=3d2b1f)
+![Git](https://img.shields.io/badge/Git-f5f0eb?style=for-the-badge&logo=git&logoColor=3d2b1f)
+![Netlify](https://img.shields.io/badge/Netlify-e8d5b7?style=for-the-badge&logo=netlify&logoColor=3d2b1f)
+![VS Code](https://img.shields.io/badge/VS_Code-f5f0eb?style=for-the-badge&logo=visual-studio-code&logoColor=3d2b1f)
 
 ### 🗡️ Security Arsenal
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-fff0f5?style=for-the-badge&logo=kalilinux&logoColor=c2185b)
-![Wireshark](https://img.shields.io/badge/Wireshark-ffd6e7?style=for-the-badge&logo=wireshark&logoColor=c2185b)
-![Metasploit](https://img.shields.io/badge/Metasploit-fff0f5?style=for-the-badge&logo=metasploit&logoColor=c2185b)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-ffd6e7?style=for-the-badge&logo=burpsuite&logoColor=c2185b)
-![OWASP](https://img.shields.io/badge/OWASP-fff0f5?style=for-the-badge&logo=owasp&logoColor=c2185b)
-![Nmap](https://img.shields.io/badge/Nmap-ffd6e7?style=for-the-badge&logoColor=c2185b)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-e8d5b7?style=for-the-badge&logo=kalilinux&logoColor=3d2b1f)
+![Wireshark](https://img.shields.io/badge/Wireshark-f5f0eb?style=for-the-badge&logo=wireshark&logoColor=3d2b1f)
+![Metasploit](https://img.shields.io/badge/Metasploit-e8d5b7?style=for-the-badge&logo=metasploit&logoColor=3d2b1f)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-f5f0eb?style=for-the-badge&logo=burpsuite&logoColor=3d2b1f)
+![OWASP](https://img.shields.io/badge/OWASP-e8d5b7?style=for-the-badge&logo=owasp&logoColor=3d2b1f)
+![Nmap](https://img.shields.io/badge/Nmap-f5f0eb?style=for-the-badge&logoColor=3d2b1f)
 
 </div>
 
@@ -186,39 +192,42 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 
 <div align="center">
 
-<!-- Stats using anuraghazra — most reliable, pink sakura theme -->
 <a href="https://github.com/Nirmay1-creator">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nirmay1-creator&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=e91e8c&text_color=6b2d50&count_private=true&include_all_commits=true&ring_color=ff69b4" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmay1-creator&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=6b2d50&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirmay1-creator&show_icons=true&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&icon_color=c49a6c&text_color=5c3d2e&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmay1-creator&layout=compact&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&text_color=5c3d2e&langs_count=8" />
 </a>
 
 <br/><br/>
 
-<!-- Streak stats — demolab is more reliable than the old URL -->
-<img src="https://streak-stats.demolab.com/?user=Nirmay1-creator&hide_border=true&background=fff0f5&ring=ff69b4&fire=c2185b&currStreakLabel=c2185b&sideLabels=c2185b&dates=8b3a5a&stroke=ffb3d1&currStreakNum=6b2d50&sideNums=6b2d50" />
+<img src="https://streak-stats.demolab.com/?user=Nirmay1-creator&hide_border=true&background=f5f0eb&ring=c49a6c&fire=8b5e3c&currStreakLabel=3d2b1f&sideLabels=3d2b1f&dates=7a5c45&stroke=d4b896&currStreakNum=3d2b1f&sideNums=3d2b1f" />
 
 <br/><br/>
 
-<!-- Activity graph — vercel hosted, reliable -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=fff0f5&color=c2185b&line=ff69b4&point=6b2d50&area=true&area_color=ffb3d133&hide_border=true&custom_title=🌸%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=f5f0eb&color=5c3d2e&line=c49a6c&point=3d2b1f&area=true&area_color=d4b89633&hide_border=true&custom_title=🌸%20Contribution%20Graph" />
 
 </div>
 
-> 💡 **Note:** Stats cards show once GitHub indexes your repositories. Push some code and they'll populate!
-
 ---
 
-## 🌸 Vibe Check
+## 🌸 Cats & Sakura
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="160" />
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" />
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="160" />
+![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png)
+![cherry blossom](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png)
+![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png)
+![cherry blossom](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png)
+![cat](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png)
 
-🌸 *Hack silently. Move precisely. Leave no trace.* 🌸
+<br/>
+
+> *🌸 Hack silently. Move precisely. Leave no trace. 🌸*
+
+<br/>
+
+![cat napping](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sleeping%20Face.png) &nbsp;
+![paw prints](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png) &nbsp;
+![wind](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Wind%20Face.png)
 
 </div>
 
@@ -228,12 +237,10 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"/>
+<br/>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-d63384?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmay-rinesh-52229237b/)
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-ff69b4?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://nirmay1-creator.github.io/NirmayPortfolioo/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-3d2b1f?style=for-the-badge&logo=linkedin&logoColor=e8d5b7)](https://www.linkedin.com/in/nirmay-rinesh-52229237b/)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-5c3d2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e8d5b7)](https://nirmay1-creator.github.io/NirmayPortfolioo/)
 
 <br/>
 
@@ -241,10 +248,10 @@ A full-stack safety companion with AI routing, offline maps, cryptographic locat
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nirmay1-creator&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Nirmay1-creator&color=c49a6c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff85b3,50:ffb3d1,100:ffd6e7&height=130&section=footer&text=🌸%20Thanks%20for%20visiting!%20See%20you%20around%20🐾&fontSize=16&fontColor=6b2d50&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a6c,50:d4b896,100:f5f0eb&height=130&section=footer&text=🌸%20Thanks%20for%20visiting!%20🐾&fontSize=18&fontColor=3d2b1f&fontAlignY=65&animation=fadeIn" />
