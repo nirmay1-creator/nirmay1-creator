@@ -1,93 +1,97 @@
-<h1 align="center">⚡ Nirmay Rinesh ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Application+Security+Learner;CTF+Designer;Digital+Forensics+Explorer;Building+Secure+Applications" />
+  <img src="./banner.png" alt="Nirmay Rinesh Banner" width="100%">
+</p>
+<h1 align="center">⚡ Nirmay Rinesh ⚡</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Application+Security;Digital+Forensics;CTF+Designer;Building+JusticeFlowX;Always+Learning+Always+Securing" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nirmay1-creator&label=Profile+Views&color=00ff00&style=for-the-badge" />
 </p>
 
-<div align="center">
+⸻
 
-![Profile Views](https://komarev.com/ghpvc/?username=nirmay1-creator&label=Profile+Views&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/nirmay1-creator?style=social)
+💻 Terminal
 
-</div>
+┌──(nirmay㉿security)-[~]
+└─$ whoami
+Name       : Nirmay Rinesh
+Role       : Cybersecurity Enthusiast
+University : Parul University
+Focus      : AppSec | IAM | Threat Detection
+Current    : Building JusticeFlowX
 
----
+⸻
 
-# 💫 About Me
+🚀 About Me
 
-```yaml
-Name: Nirmay Rinesh
-Education: B.Tech Cyber Security
-University: Parul University
-Focus:
-  - Application Security
-  - Identity & Access Management
-  - Threat Detection
-  - Digital Forensics
-  - Vulnerability Assessment
+* 🔐 Cybersecurity Enthusiast
+* 🎓 B.Tech Cyber Security Student
+* 🏆 CCEP Certified
+* 🏆 CCPP Certified
+* 🛡️ Application Security Learner
+* 🚩 CTF Designer
+* 🔎 Digital Forensics Explorer
+* ⚡ Security Research Enthusiast
 
-Current_Project: JusticeFlowX
-Goal: Become a Security Engineer & Researcher
-```
+⸻
 
-## 🚀 Featured Projects
-
-### 🔐 JusticeFlowX
-AI-powered investigation and verification platform.
-
-### 🛡️ Cybersecurity Labs
-Hands-on security testing, vulnerability analysis, and defensive security exercises.
-
-### 🚩 CTF Challenges
-Custom Capture The Flag challenges and writeups.
-
----
-
-# 🏆 Certifications
-
-- CCEP
-- CCPP
-- Application Security Analyst
-- IBM Cybersecurity Fundamentals
-- Deloitte Cybersecurity Simulation
-- Tata Cybersecurity Simulation
-
----
-
-# 💻 Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,cpp,bash,mysql,git,github,vscode" />
 </p>
 
----
+⸻
 
-# 📊 GitHub Stats
+🏅 Certifications
+
+* CCEP
+* CCPP
+* IBM Cybersecurity Fundamentals
+* Deloitte Cybersecurity Job Simulation
+* Tata Cybersecurity Analyst Simulation
+* Application Security Analyst
+
+⸻
+
+🔥 Featured Projects
+
+🛡️ JusticeFlowX
+
+AI-powered investigation and verification platform.
+
+🚩 CTF Challenges
+
+Custom challenge creation and writeups.
+
+🔍 Security Research
+
+Application security and vulnerability analysis.
+
+💻 Cyber Labs
+
+Hands-on cybersecurity experimentation.
+
+⸻
+
+📈 Activity Graph
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirmay1-creator&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&theme=tokyo-night"/>
 </p>
 
----
+⸻
 
-# 🔥 GitHub Streak
+🐍 Contribution Snake
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nirmay1-creator&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+⸻
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nirmay1-creator&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nirmay-rinesh-52229237b">
@@ -95,26 +99,20 @@ Custom Capture The Flag challenges and writeups.
 </a>
 </p>
 
----
+⸻
 
-# 📈 Activity Graph
+⚡ System Status
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&theme=tokyo-night"/>
-</p>
+Cybersecurity        ████████░░ 80%
+Application Security ███████░░░ 70%
+Digital Forensics    ██████░░░░ 60%
+CTF Skills           ████████░░ 80%
+Coffee Dependency    ██████████ 100%
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
+⸻
 
 <div align="center">
 
-### "Secure. Learn. Build. Repeat."
+💀 Secure. Learn. Build. Repeat. 💀
 
 </div>
