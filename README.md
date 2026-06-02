@@ -57,7 +57,7 @@ Status   :  always_hacking = true 🐱
 ---
 
 ```
-     /\     /\
+    /\     /\
     (  o o  )    "I don't just find vulnerabilities —
     =( Y )=       I build systems resilient against them."
      )   (
@@ -198,8 +198,6 @@ Status   :  always_hacking = true 🐱
 
 <br/><br/>
 
-<!-- Streak stats — using demolab (more stable than vercel instance) -->
-<img src="https://streak-stats.demolab.com/?user=Nirmay1-creator&hide_border=true&background=f5f0eb&ring=c49a6c&fire=8b5e3c&currStreakLabel=3d2b1f&sideLabels=3d2b1f&dates=7a5c45&stroke=d4b896&currStreakNum=3d2b1f&sideNums=3d2b1f" />
 
 <br/><br/>
 
