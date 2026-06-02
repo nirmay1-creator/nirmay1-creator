@@ -17,12 +17,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3d2b1f?style=for-the-badge&logo=linkedin&logoColor=e8d5b7)](https://www.linkedin.com/in/nirmay-rinesh-52229237b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nirmay.ex-5c3d2e?style=for-the-badge&logo=firefoxbrowser&logoColor=e8d5b7)](https://nirmay1-creator.github.io/NirmayPortfolioo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nirmay1--creator-3d2b1f?style=for-the-badge&logo=github&logoColor=e8d5b7)](https://github.com/Nirmay1-creator)
+![Profile Views](https://komarev.com/ghpvc/?username=Nirmay1-creator&color=c49a6c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" />
 
 ## 🌸 About Me
 
@@ -41,11 +42,11 @@ Focus    :  Offensive Security +
             Secure Product Development
 Certs    :  CCEP · CCPP · CompTIA Security+
             IBM Cybersecurity Fundamentals
-Quote    :  "Break things to build them better"
+Quote    :  "Break to build better" 🌸
 Status   :  always_hacking = true 🐱
 ```
 
-- 🔐 Certified: **CCEP, CCPP, CompTIA Security+**
+- 🔐 Certified: **CCEP · CCPP · CompTIA Security+**
 - 🛡️ Creator of **Rakshika** — Women's Safety Platform
 - ⚖️ Creator of **JusticeFlowX** — Law Enforcement System
 - 🤖 Creator of **MedAssist AI** — AI Health Companion
@@ -57,10 +58,10 @@ Status   :  always_hacking = true 🐱
 
 ```
      /\     /\
-    (  o o  )   "I don't just find vulnerabilities —
-    =( Y )=      I build systems resilient against them."
+    (  o o  )    "I don't just find vulnerabilities —
+    =( Y )=       I build systems resilient against them."
      )   (
-    (_)-(_)    🌸 ~ nirmay
+    (_)-(_)     🌸 ~ nirmay
 ```
 
 ---
@@ -143,9 +144,9 @@ Status   :  always_hacking = true 🐱
 | 💎 | **CompTIA Security+** | KodeKloud | Feb 2026–2030 |
 | 🔴 | **CCPP** — Certified Cyber Protection Pro | Red Team Leaders | Feb 2026–2030 |
 | ⚔️ | **CCEP** — Certified Cyber Expert Pro | Red Team Leaders | Feb 2026–2030 |
-| 🕵️ | **Deloitte — Cyber Job Simulation** | Forage | Apr 2026 |
-| 🏢 | **Tata — Cybersecurity Analyst Simulation** | Forage | Apr 2026 |
-| 📊 | **Tata — Data Visualisation** | Forage | Apr 2026 |
+| 🕵️ | **Deloitte Cyber Job Simulation** | Forage | Apr 2026 |
+| 🏢 | **Tata Cybersecurity Analyst Sim** | Forage | Apr 2026 |
+| 📊 | **Tata Data Visualisation** | Forage | Apr 2026 |
 | 🌐 | **HTML & CSS Certified** | Pearson VUE / Certiport | Dec 2025–2029 |
 | 🎓 | **Cybersecurity Internship** | SmartED Innovations | Nov 2025 |
 
@@ -188,25 +189,23 @@ Status   :  always_hacking = true 🐱
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<!-- Using githubstats.me — works for all accounts including new ones -->
-<a href="https://github.com/Nirmay1-creator">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nirmay1-creator&show_icons=true&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&icon_color=c49a6c&text_color=5c3d2e&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmay1-creator&layout=compact&hide_border=true&bg_color=f5f0eb&title_color=3d2b1f&text_color=5c3d2e&langs_count=8&cache_seconds=1800" />
-</a>
+<!-- Contribution graph — works always, no repo requirement -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=f5f0eb&color=5c3d2e&line=c49a6c&point=3d2b1f&area=true&area_color=d4b89644&hide_border=true&custom_title=🌸%20Contribution%20Graph" />
 
 <br/><br/>
 
+<!-- Streak — works always -->
 <img src="https://streak-stats.demolab.com/?user=Nirmay1-creator&hide_border=true&background=f5f0eb&ring=c49a6c&fire=8b5e3c&currStreakLabel=3d2b1f&sideLabels=3d2b1f&dates=7a5c45&stroke=d4b896&currStreakNum=3d2b1f&sideNums=3d2b1f" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=f5f0eb&color=5c3d2e&line=c49a6c&point=3d2b1f&area=true&area_color=d4b89633&hide_border=true&custom_title=🌸%20Contribution%20Graph" />
-
 </div>
+
+<br/>
+
+> 💡 **Stat cards (top languages / total stars) will auto-appear once your repos are made public on GitHub!**
 
 ---
 
@@ -215,24 +214,22 @@ Status   :  always_hacking = true 🐱
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="80" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="80" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="60" />
-&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="55" />
 
-> *🌸 Hack silently. Move precisely. Leave no trace. 🌸*
+*🌸 Hack silently. Move precisely. Leave no trace. 🌸*
 
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="55" />
 
 </div>
 
@@ -242,7 +239,7 @@ Status   :  always_hacking = true 🐱
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="55" />
 
 <br/><br/>
 
@@ -252,10 +249,6 @@ Status   :  always_hacking = true 🐱
 <br/>
 
 > *"Security isn't a product, it's a process — and I'm building both."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nirmay1-creator&color=c49a6c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
