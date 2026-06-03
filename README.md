@@ -130,7 +130,7 @@ Status   :  always_hacking = true 🐱
 ![Node.js](https://img.shields.io/badge/Node.js-e8d5b7?style=flat-square&logo=node.js&logoColor=3d2b1f)
 ![Vercel](https://img.shields.io/badge/Vercel-f5f0eb?style=flat-square&logo=vercel&logoColor=3d2b1f)
 
-🔗 **[View Live →](https://med-assist-ai-nine.vercel.app/)**
+🔗 **[View Live →](https://med-assist-ai-smoky.vercel.app/)**
 
 #### 🌟 Highlights
 
