@@ -110,18 +110,38 @@ Status   :  always_hacking = true 🐱
 
 ---
 
-### 🏥 MedAssist AI — Intelligent Health Companion &nbsp; `🟡 In Progress`
+### 🏥 MedAssist AI — Intelligent Health Companion &nbsp; `🟢 LIVE`
+
+> **"Your AI-Powered Healthcare Companion"** — Making healthcare information understandable, accessible, and actionable.
 
 | 🌸 Feature | Description |
 |------------|-------------|
-| 📄 Report AI | Analyze PDFs, images & lab text |
-| 🩺 Symptom AI | Intelligent assessor |
-| 💊 Medicine | Compliance tracker & reminders |
-| 🚨 Emergency | Quick AI response module |
+| 📄 Report AI | Analyze medical reports, PDFs, lab reports & images |
+| 🩺 Symptom AI | AI-powered symptom assessment and guidance |
+| 💊 Medication Tracker | Daily medicine reminders and compliance monitoring |
+| 🚨 Emergency Assistance | Quick emergency response guidance |
+| 🌐 Multi-Language Support | Healthcare insights in multiple languages |
+| 📊 Health Dashboard | Monitor reports, reminders & wellness progress |
+| 🏥 Healthcare Finder | Locate nearby healthcare resources |
 
 ![React](https://img.shields.io/badge/React-f5f0eb?style=flat-square&logo=react&logoColor=3d2b1f)
-![Gemini](https://img.shields.io/badge/Gemini_API-e8d5b7?style=flat-square&logo=google&logoColor=3d2b1f)
-![Node.js](https://img.shields.io/badge/Node.js-f5f0eb?style=flat-square&logo=node.js&logoColor=3d2b1f)
+![TypeScript](https://img.shields.io/badge/TypeScript-e8d5b7?style=flat-square&logo=typescript&logoColor=3d2b1f)
+![Gemini](https://img.shields.io/badge/Gemini_API-f5f0eb?style=flat-square&logo=google&logoColor=3d2b1f)
+![Node.js](https://img.shields.io/badge/Node.js-e8d5b7?style=flat-square&logo=node.js&logoColor=3d2b1f)
+![Vercel](https://img.shields.io/badge/Vercel-f5f0eb?style=flat-square&logo=vercel&logoColor=3d2b1f)
+
+🔗 **[View Live →](https://med-assist-ai-nine.vercel.app/)**
+
+#### 🌟 Highlights
+
+- AI-powered medical report interpretation
+- Blood test and diagnostic report analysis
+- Smart symptom assessment engine
+- Medication reminders and adherence tracking
+- Emergency assistance module
+- Clean, responsive healthcare dashboard
+- Privacy-focused user experience
+- Multi-language accessibility support
 
 ---
 
