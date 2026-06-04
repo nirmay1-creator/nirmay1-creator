@@ -144,7 +144,75 @@ Status   :  always_hacking = true 🐱
 - Multi-language accessibility support
 
 ---
+## 🏥 MedAssist AI — Intelligent Health Companion `🟢 LIVE`
 
+> **"Making Healthcare Information Understandable, Accessible, and Actionable."**
+
+| 🌸 Feature                | Description                                                      |
+| ------------------------- | ---------------------------------------------------------------- |
+| 📄 AI Report Analyzer     | Upload medical reports, PDFs, and images for AI-powered insights |
+| 🩺 Symptom Checker        | Smart symptom assessment and health guidance                     |
+| 💊 Medication Tracker     | Daily medicine reminders and compliance tracking                 |
+| 📍 Healthcare Finder      | Locate nearby hospitals, clinics, and pharmacies                 |
+| 🚨 Emergency Assistance   | Quick emergency support and health guidance                      |
+| 🌐 Multi-Language Support | Healthcare assistance in multiple languages                      |
+| 📊 Health Dashboard       | Track reports, medications, and wellness progress                |
+
+![React](https://img.shields.io/badge/React-f5f0eb?style=flat-square\&logo=react\&logoColor=3d2b1f)
+![TypeScript](https://img.shields.io/badge/TypeScript-e8d5b7?style=flat-square\&logo=typescript\&logoColor=3d2b1f)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-f5f0eb?style=flat-square\&logo=google\&logoColor=3d2b1f)
+![Node.js](https://img.shields.io/badge/Node.js-e8d5b7?style=flat-square\&logo=node.js\&logoColor=3d2b1f)
+![Vercel](https://img.shields.io/badge/Vercel-f5f0eb?style=flat-square\&logo=vercel\&logoColor=3d2b1f)
+
+🔗 **Live Demo:** https://med-assist-ai-smoky.vercel.app/
+
+### 🌟 Highlights
+
+* AI-powered medical report interpretation
+* Blood test and diagnostic report analysis
+* Intelligent symptom assessment engine
+* Medication reminders and adherence tracking
+* Emergency assistance and healthcare guidance
+* Modern responsive healthcare dashboard
+* Privacy-focused user experience
+* Multi-language accessibility support
+
+### 🛠️ Tech Stack
+
+* React.js
+* TypeScript
+* Gemini AI
+* Node.js
+* Vercel
+
+### 🎯 Mission
+
+MedAssist AI is designed to bridge the gap between healthcare information and everyday users by simplifying medical reports, providing AI-powered health insights, tracking medications, and helping users make informed healthcare decisions.
+----
+🎣 PhishGuard AI — Phishing URL Detection System 🟢 LIVE
+
+"Detect malicious links before they become threats."
+
+🌸 Feature	Description
+🔗 URL Analysis	Real-time phishing URL detection
+🤖 AI Classification	ML-powered malicious link prediction
+⚠️ Threat Alerts	Instant phishing risk assessment
+📊 Risk Score	Security confidence scoring
+🛡️ Safe Browsing	Prevents users from visiting harmful links
+📈 Analytics	Detection statistics & threat insights
+🔍 URL Scanner	Deep inspection of suspicious URLs
+
+
+🔗 Repository: https://github.com/nirmay1-creator/Phising-Url-Detector
+
+🌟 Highlights
+Machine Learning-based phishing detection
+Real-time URL reputation analysis
+Fast and lightweight scanning engine
+Security-focused user interface
+Helps users identify suspicious websites
+Cybersecurity awareness and prevention tool
+---
 **🔭 Coming Soon:**
 ```
 🔧 Security Tool    →  Coming Soon
