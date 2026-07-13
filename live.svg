@@ -1,0 +1,11 @@
+<svg viewBox="0 0 90 24" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="89" height="23" rx="12" fill="#0d1117" stroke="#173a24"/>
+  <circle cx="16" cy="12" r="5" fill="#39ff14">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="16" cy="12" r="8" fill="none" stroke="#39ff14" stroke-width="1.5">
+    <animate attributeName="r" values="5;11;5" dur="1.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="30" y="16" font-family="Courier New, monospace" font-size="12" font-weight="bold" fill="#39ff14">LIVE</text>
+</svg>
