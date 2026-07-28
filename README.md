@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0eb,30:e8d5b7,60:d4b896,100:c49a6c&height=200&section=header&text=Nirmay%20Rinesh&fontSize=55&fontColor=3d2b1f&fontAlignY=38&desc=🌸%20Cybersecurity%20·%20Ethical%20Hacker%20·%20Full-Stack%20Developer%20🌸&descAlignY=60&descSize=15&descColor=5c3d2e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0eb,30:e8d5b7,60:d4b896,100:c49a6c&height=200&section=header&text=Nirmay%20Rinesh&fontSize=55&fontColor=3d2b1f&fontAlignY=38&desc=%20Cybersecurity%20·%20Ethical%20Hacker%20·%20Full-Stack%20Developer%20&descAlignY=60&descSize=15&descColor=5c3d2e&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=8B5E3C&center=true&vCenter=true&random=false&width=750&lines=🌸+Welcome+to+my+GitHub+profile...;🔐+Cybersecurity+Student+%40+Parul+University;🗡️+Ethical+Hacker+%7C+Penetration+Tester;💻+Full-Stack+%26+Security-First+Developer;🛡️+Creator+of+Rakshika+—+Women's+Safety+App;⚖️+Creator+of+JusticeFlowX+—+Law+Enforcement+AI;🤖+Creator+of+MedAssist+AI+—+Health+Companion;🌸+CCEP+·+CCPP+·+CompTIA+Security%2B+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=8B5E3C&center=true&vCenter=true&random=false&width=750&lines=+Welcome+to+my+GitHub+profile...;🔐+Cybersecurity+Student+%40+Parul+University;🗡️+Ethical+Hacker+%7C+Penetration+Tester;💻+Full-Stack+%26+Security-First+Developer;🛡️+Creator+of+Rakshika+—+Women's+Safety+App;⚖️+Creator+of+JusticeFlowX+—+Law+Enforcement+AI;🤖+Creator+of+MedAssist+AI+—+Health+Companion;+CCEP+·+CCPP+·+CompTIA+Security%2B+Certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" />
 
-## 🌸 About Me
+##  About Me
 
 ```bash
 $ cat nirmay.txt
@@ -42,7 +42,7 @@ Focus    :  Offensive Security +
             Secure Product Development
 Certs    :  CCEP · CCPP · CompTIA Security+
             IBM Cybersecurity Fundamentals
-Quote    :  "Break to build better" 🌸
+Quote    :  "Break to build better" 
 Status   :  always_hacking = true 🐱
 ```
 
@@ -61,7 +61,7 @@ Status   :  always_hacking = true 🐱
     (  o o  )    "I don't just find vulnerabilities —
     =( Y )=       I build systems resilient against them."
      )   (
-    (_)-(_)     🌸 ~ nirmay
+    (_)-(_)      ~ nirmay
 ```
 
 ---
@@ -74,7 +74,7 @@ Status   :  always_hacking = true 🐱
 
 > **"You Are Never Alone"** — Indian Regional Protection Protocol
 
-| 🌸 Feature | Description |
+|  Feature | Description |
 |------------|-------------|
 | 🚨 Panic SOS | One-tap SMS with live GPS |
 | 🚶 Safe Walk | Virtual sentinel + liveness check |
@@ -94,7 +94,7 @@ Status   :  always_hacking = true 🐱
 
 ### ⚖️ JusticeFlowX — Criminal Verification System &nbsp; `🟢 LIVE`
 
-| 🌸 Feature | Description |
+|  Feature | Description |
 |------------|-------------|
 | 🖐️ Biometric | Fingerprint & facial scan UI |
 | 🗃️ Intel DB | National Criminal Database |
@@ -114,7 +114,7 @@ Status   :  always_hacking = true 🐱
 
 > **"Your AI-Powered Healthcare Companion"** — Making healthcare information understandable, accessible, and actionable.
 
-| 🌸 Feature | Description |
+| Feature | Description |
 |------------|-------------|
 | 📄 Report AI | Analyze medical reports, PDFs, lab reports & images |
 | 🩺 Symptom AI | AI-powered symptom assessment and guidance |
@@ -238,7 +238,7 @@ Cybersecurity awareness and prevention tool
 <div align="center">
 
 <!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=f5f0eb&color=5c3d2e&line=c49a6c&point=3d2b1f&area=true&area_color=d4b89644&hide_border=true&custom_title=🌸%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmay1-creator&bg_color=f5f0eb&color=5c3d2e&line=c49a6c&point=3d2b1f&area=true&area_color=d4b89644&hide_border=true&custom_title=%20Contribution%20Graph" />
 
 <br/><br/>
 
@@ -256,7 +256,7 @@ Cybersecurity awareness and prevention tool
 
 ---
 
-## 🌸 Cats & Sakura
+##  Cats & Sakura
 
 <div align="center">
 
@@ -274,7 +274,7 @@ Cybersecurity awareness and prevention tool
 
 <img src="https://em-content.zobj.net/source/microsoft/379/paw-prints_1f43e.png" width="55" />
 
-*🌸 Hack silently. Move precisely. Leave no trace. 🌸*
+* Hack silently. Move precisely. Leave no trace. *
 
 <img src="https://em-content.zobj.net/source/microsoft/379/paw-prints_1f43e.png" width="55" />
 
@@ -301,4 +301,4 @@ Cybersecurity awareness and prevention tool
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a6c,50:d4b896,100:f5f0eb&height=130&section=footer&text=🌸%20Thanks%20for%20visiting!%20🐾&fontSize=18&fontColor=3d2b1f&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c49a6c,50:d4b896,100:f5f0eb&height=130&section=footer&text=%20Thanks%20for%20visiting!%20🐾&fontSize=18&fontColor=3d2b1f&fontAlignY=65&animation=fadeIn" />
