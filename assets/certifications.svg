@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 680" width="850" height="680">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;display=swap');
+      
+      .bg { fill: #0d1117; rx: 15px; stroke: #7C3AED; stroke-width: 2px; }
+      .bg-glow { fill: none; stroke: #A855F7; stroke-width: 6px; filter: blur(8px); rx: 15px; }
+      
+      .title { font-family: 'Fira Code', monospace; font-size: 26px; font-weight: 600; fill: #A855F7; text-anchor: middle; filter: drop-shadow(0 0 8px #7C3AED); }
+      .header { font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 600; fill: #00E5FF; }
+      .header-glow { font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 600; fill: #00E5FF; filter: drop-shadow(0 0 5px #00E5FF); }
+      
+      .text-name { font-family: 'Fira Code', monospace; font-size: 14.5px; fill: #E2E8F0; font-weight: 600; }
+      .text-issuer { font-family: 'Fira Code', monospace; font-size: 14px; fill: #94A3B8; }
+      .text-date { font-family: 'Fira Code', monospace; font-size: 14px; fill: #FBBF24; text-anchor: end; font-weight: 600; }
+      
+      .line { stroke: #1F2937; stroke-width: 1px; }
+      .hover-box:hover { fill: #1F2937; opacity: 0.5; }
+      
+      /* Animations */
+      .row { opacity: 0; animation: slideIn 0.6s ease forwards; transform: translateX(-30px); }
+      
+      @keyframes slideIn {
+        to { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { filter: drop-shadow(0 0 5px #7C3AED); }
+        50% { filter: drop-shadow(0 0 15px #A855F7); }
+      }
+      .title-pulse { animation: pulse 3s infinite; }
+    </style>
+  </defs>
+
+  <!-- Background with glow -->
+  <rect class="bg-glow" x="10" y="10" width="830" height="660" />
+  <rect class="bg" x="10" y="10" width="830" height="660" />
+  
+  <text x="425" y="55" class="title title-pulse">🏆 CERTIFICATIONS &amp; ACHIEVEMENTS 🏆</text>
+
+  <line x1="30" y1="80" x2="820" y2="80" class="line" />
+  
+  <text x="40" y="110" class="header-glow">CERTIFICATION</text>
+  <text x="480" y="110" class="header-glow">ISSUER</text>
+  <text x="810" y="110" class="header-glow" style="text-anchor: end;">DATE</text>
+
+  <line x1="30" y1="130" x2="820" y2="130" class="line" />
+
+  <g class="row" style="animation-delay: 0.3s;">
+    <!-- Hover Background -->
+    <rect x="30" y="146" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="170" class="text-name">🛡️ Fortinet Certified Fundamentals (FCF)</text>
+    <text x="480" y="170" class="text-issuer">Fortinet</text>
+    <text x="810" y="170" class="text-date">Jul 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="180" x2="820" y2="180" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 0.44999999999999996s;">
+    <!-- Hover Background -->
+    <rect x="30" y="184" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="208" class="text-name">☁️ Oracle Certified Foundations Assoc.</text>
+    <text x="480" y="208" class="text-issuer">Oracle</text>
+    <text x="810" y="208" class="text-date">Jul 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="218" x2="820" y2="218" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 0.6s;">
+    <!-- Hover Background -->
+    <rect x="30" y="222" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="246" class="text-name">🔐 Application Security Analyst</text>
+    <text x="480" y="246" class="text-issuer">Reliance Foundation</text>
+    <text x="810" y="246" class="text-date">Apr 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="256" x2="820" y2="256" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 0.75s;">
+    <!-- Hover Background -->
+    <rect x="30" y="260" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="284" class="text-name">🌐 Cybersecurity Fundamentals</text>
+    <text x="480" y="284" class="text-issuer">IBM</text>
+    <text x="810" y="284" class="text-date">Apr 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="294" x2="820" y2="294" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 0.8999999999999999s;">
+    <!-- Hover Background -->
+    <rect x="30" y="298" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="322" class="text-name">🕵️ Online Fraud Prevention Specialist</text>
+    <text x="480" y="322" class="text-issuer">Hack & Fix</text>
+    <text x="810" y="322" class="text-date">May 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="332" x2="820" y2="332" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.05s;">
+    <!-- Hover Background -->
+    <rect x="30" y="336" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="360" class="text-name">🛡️ CompTIA Security+</text>
+    <text x="480" y="360" class="text-issuer">KodeKloud</text>
+    <text x="810" y="360" class="text-date">Feb 2026 – 2030</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="370" x2="820" y2="370" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.2s;">
+    <!-- Hover Background -->
+    <rect x="30" y="374" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="398" class="text-name">💻 CCPP — C++ Practitioner</text>
+    <text x="480" y="398" class="text-issuer">Red Team Leaders</text>
+    <text x="810" y="398" class="text-date">Feb 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="408" x2="820" y2="408" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.35s;">
+    <!-- Hover Background -->
+    <rect x="30" y="412" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="436" class="text-name">🎓 CCEP — Cybersecurity Educator</text>
+    <text x="480" y="436" class="text-issuer">Red Team Leaders</text>
+    <text x="810" y="436" class="text-date">Feb 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="446" x2="820" y2="446" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.5s;">
+    <!-- Hover Background -->
+    <rect x="30" y="450" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="474" class="text-name">💼 Deloitte Cyber Job Simulation</text>
+    <text x="480" y="474" class="text-issuer">Forage</text>
+    <text x="810" y="474" class="text-date">Apr 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="484" x2="820" y2="484" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.65s;">
+    <!-- Hover Background -->
+    <rect x="30" y="488" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="512" class="text-name">💼 Tata Cybersecurity Analyst Job Sim.</text>
+    <text x="480" y="512" class="text-issuer">Forage</text>
+    <text x="810" y="512" class="text-date">Apr 2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="522" x2="820" y2="522" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.8s;">
+    <!-- Hover Background -->
+    <rect x="30" y="526" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="550" class="text-name">🕵️‍♂️ Ethical Hacker — Course Completion</text>
+    <text x="480" y="550" class="text-issuer">Cisco Networking</text>
+    <text x="810" y="550" class="text-date">2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="560" x2="820" y2="560" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 1.95s;">
+    <!-- Hover Background -->
+    <rect x="30" y="564" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="588" class="text-name">🔒 Cyber Security Course Completion</text>
+    <text x="480" y="588" class="text-issuer">Smarted (STEM)</text>
+    <text x="810" y="588" class="text-date">2026</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="598" x2="820" y2="598" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+
+  <g class="row" style="animation-delay: 2.0999999999999996s;">
+    <!-- Hover Background -->
+    <rect x="30" y="602" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
+    
+    <!-- Text Elements -->
+    <text x="40" y="626" class="text-name">🌐 ITS — HTML & CSS</text>
+    <text x="480" y="626" class="text-issuer">Pearson VUE</text>
+    <text x="810" y="626" class="text-date">Dec 2025 – 2029</text>
+    
+    <!-- Divider line -->
+    <line x1="30" y1="636" x2="820" y2="636" class="line" stroke-dasharray="4" opacity="0.3"/>
+  </g>
+</svg>
