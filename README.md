@@ -13,15 +13,15 @@
   <!-- 🔹 NAME 🔹 -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Nirmay+Rinesh;Cyber+Security+Engineer;AI+Developer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Nirmay+Rinesh;Cyber+Security+Engineer;AI+Developer" alt="Typing animation" />
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=00ffff&center=true&vCenter=true&width=600&lines=Nirmay+Rinesh;Cyber+Security+Engineer;AI+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=00ffff&center=true&vCenter=true&width=600&lines=Nirmay+Rinesh;Cyber+Security+Engineer;AI+Developer" alt="Typing animation" />
   </picture>
 
   <!-- 🔹 ROLE 🔹 -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Parul+University;Python+%C2%B7+TypeScript+%C2%B7+React;Full+Stack+%C2%B7+Digital+Forensics" />
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Parul+University;Python+%C2%B7+TypeScript+%C2%B7+React;Full+Stack+%C2%B7+Digital+Forensics" alt="Typing animation" />
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=ff00ff&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Parul+University;Python+%C2%B7+TypeScript+%C2%B7+React;Full+Stack+%C2%B7+Digital+Forensics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=ff00ff&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Parul+University;Python+%C2%B7+TypeScript+%C2%B7+React;Full+Stack+%C2%B7+Digital+Forensics" alt="Typing animation" />
   </picture>
 </div>
 
@@ -62,15 +62,14 @@
 
 <p align="center">
   <br/><br/>
-  <img src='https://count.getloli.com/@nirmay1-creator?name=nirmay1-creator&theme=rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=A855F7&text_color=ffffff&ring_color=7C3AED" width="400px" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nirmay1-creator&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" width="400px" alt="Streak Stats"/>
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" alt="Top Languages"/>
-  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmay1-creator&theme=github_dark" alt="Profile Details"/>
+  <img src='https://count.getloli.com/@nirmay1-creator?name=nirmay1-creator&theme=asoul&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1' width="400px">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&ring_color=00ffff" width="400px" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nirmay1-creator&hide_border=true&background=0a0a1a&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ff00ff&stroke=ff00ff" width="400px" alt="Streak Stats"/>
+  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=00ffff&text_color=ffffff" alt="Top Languages"/>
+  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmay1-creator&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&theme=high-contrast&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&bg_color=0a0a1a&color=00ffff&line=ff00ff&point=ffffff&theme=react&hide_border=true&area=true" />
 <br clear="both" />
 
 ---

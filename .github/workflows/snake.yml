@@ -20,7 +20,7 @@ jobs:
           github_user_name: nirmay1-creator
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#0F172A,#1a1a2e,#4D7CFF,#7C3AED,#A855F7
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ff00ff&color_dots=#0a0a1a,#1a0b2e,#4D7CFF,#00ffff,#ff00ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
