@@ -166,7 +166,7 @@
 <div align="center">
   <img src="assets/mona-whisper.gif" width="150" align="right" alt="Mona" />
   <h2>🐍 Contribution Snake 🐍</h2>
-  <img src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/dist/snake-dark.svg" width="100%" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/snake-dark.svg" width="100%" alt="GitHub Snake" />
   <br clear="both"/>
 </div>
 
