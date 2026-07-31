@@ -42,7 +42,7 @@
 <div>
   <h3>About me</h3>
 
-  <div><img align="right" alt="GIF" src="assets/samurai4.png" width="200" /></div>
+  <div><img align="right" alt="Pixel Cat" src="assets/pixel-cat.gif" width="300" /></div>
 
   | <p align="left">🎓 B.Tech CSE (Cyber Security) Student </p>  |
   | --------------------------------------------------------- |
