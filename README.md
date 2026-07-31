@@ -305,13 +305,13 @@ ML-powered real-time phishing URL classification with risk scoring, threat analy
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=09090B&title_color=00E5FF&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=09090B&title_color=00E5FF&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&cache_seconds=86400" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=nirmay1-creator&hide_border=true&background=09090B&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" alt="Streak Stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nirmay1-creator&hide_border=true&background=09090B&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=09090B&title_color=00E5FF&text_color=ffffff&cache_seconds=86400" alt="Top Languages"/>
+<img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=09090B&title_color=00E5FF&text_color=ffffff&cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
 
