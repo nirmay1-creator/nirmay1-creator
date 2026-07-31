@@ -38,10 +38,10 @@
   <br/><br/>
   <img src='https://count.getloli.com/@nirmay1-creator?name=nirmay1-creator&theme=rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
   
-  <img src=".github/assets/metrics-stats.svg" width="400px"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nirmay1-creator&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" width="400px"/>
-  <img width="400px" src=".github/assets/metrics-repository.svg" />
-  <img width="400px" src=".github/assets/metrics-activity.svg" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=A855F7&text_color=ffffff&ring_color=7C3AED" width="400px" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nirmay1-creator&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" width="400px" alt="Streak Stats"/>
+  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" alt="Top Languages"/>
+  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmay1-creator&theme=github_dark" alt="Profile Details"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&theme=high-contrast&hide_border=true&area=true" />
@@ -114,6 +114,17 @@
 
 </div>
 
+<br/>
+<hr/>
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Snake 🐍</h2>
+  <img src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/dist/snake-dark.svg" width="100%" alt="GitHub Snake" />
+</div>
+
+<br/>
 <hr/>
 
 <h4 align="center">Made with <img src="assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/nirmay1-creator">Nirmay Rinesh</a></h4>
