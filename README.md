@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/cyberpunk_banner.png" width="100%" alt="Cyberpunk Banner" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100%" alt="Cyberpunk Animated Banner" style="border-radius: 15px;" />
 </div>
 <br/>
 
@@ -183,7 +183,7 @@
 <hr/>
 
 <div align="center">
-  <img src="assets/anime_footer_banner.png" width="100%" alt="Anime Footer" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/l41YcWGGJ1Y4G7D6E/giphy.gif" width="100%" alt="Anime Animated Footer" style="border-radius: 15px;" />
   <img src="assets/footer.svg" width="100%" alt="Footer Waves" />
 </div>
 
