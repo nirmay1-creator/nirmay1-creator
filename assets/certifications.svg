@@ -103,7 +103,7 @@
     
     <!-- Text Elements -->
     <text x="40" y="322" class="text-name">🕵️ Online Fraud Prevention Specialist</text>
-    <text x="480" y="322" class="text-issuer">Hack & Fix</text>
+    <text x="480" y="322" class="text-issuer">Hack &amp; Fix</text>
     <text x="810" y="322" class="text-date">May 2026</text>
     
     <!-- Divider line -->
@@ -206,7 +206,7 @@
     <rect x="30" y="602" width="790" height="38" fill="transparent" class="hover-box" rx="5"/>
     
     <!-- Text Elements -->
-    <text x="40" y="626" class="text-name">🌐 ITS — HTML & CSS</text>
+    <text x="40" y="626" class="text-name">🌐 ITS — HTML &amp; CSS</text>
     <text x="480" y="626" class="text-issuer">Pearson VUE</text>
     <text x="810" y="626" class="text-date">Dec 2025 – 2029</text>
     

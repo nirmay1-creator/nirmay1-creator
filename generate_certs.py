@@ -5,7 +5,7 @@ certs = [
     {"name": "☁️ Oracle Certified Foundations Assoc.", "issuer": "Oracle", "date": "Jul 2026"},
     {"name": "🔐 Application Security Analyst", "issuer": "Reliance Foundation", "date": "Apr 2026"},
     {"name": "🌐 Cybersecurity Fundamentals", "issuer": "IBM", "date": "Apr 2026"},
-    {"name": "🕵️ Online Fraud Prevention Specialist", "issuer": "Hack & Fix", "date": "May 2026"},
+    {"name": "🕵️ Online Fraud Prevention Specialist", "issuer": "Hack &amp; Fix", "date": "May 2026"},
     {"name": "🛡️ CompTIA Security+", "issuer": "KodeKloud", "date": "Feb 2026 – 2030"},
     {"name": "💻 CCPP — C++ Practitioner", "issuer": "Red Team Leaders", "date": "Feb 2026"},
     {"name": "🎓 CCEP — Cybersecurity Educator", "issuer": "Red Team Leaders", "date": "Feb 2026"},
@@ -13,7 +13,7 @@ certs = [
     {"name": "💼 Tata Cybersecurity Analyst Job Sim.", "issuer": "Forage", "date": "Apr 2026"},
     {"name": "🕵️‍♂️ Ethical Hacker — Course Completion", "issuer": "Cisco Networking", "date": "2026"},
     {"name": "🔒 Cyber Security Course Completion", "issuer": "Smarted (STEM)", "date": "2026"},
-    {"name": "🌐 ITS — HTML & CSS", "issuer": "Pearson VUE", "date": "Dec 2025 – 2029"},
+    {"name": "🌐 ITS — HTML &amp; CSS", "issuer": "Pearson VUE", "date": "Dec 2025 – 2029"},
 ]
 
 svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 680" width="850" height="680">
