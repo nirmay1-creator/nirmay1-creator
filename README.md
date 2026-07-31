@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="assets/banner.svg" width="100%" alt="Nirmay Rinesh — Cyberpunk Banner"/>
 
@@ -10,39 +10,36 @@
 
 <!-- Animated Typing -->
 <a href="https://github.com/nirmay1-creator">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E3%80%8C+SYSTEM+%3A%3A+ONLINE+%E3%80%8D;%E2%96%B8+Cyber+Security+Engineer;%E2%96%B8+AI+Developer+%7C+Full+Stack;%E2%96%B8+Digital+Forensics+Specialist;%E2%96%B8+Competitive+Programmer;%E2%96%B8+Open+Source+Contributor" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=820&height=75&lines=%E3%80%8C+SYSTEM+%3A%3A+ONLINE+%E3%80%8D;%E2%96%B8+Cyber+Security+Engineer+%7C+AI+Developer;%E2%96%B8+Full+Stack+Developer+%7C+Digital+Forensics;%E2%96%B8+B.Tech+CSE+(Cyber+Security)+%40+Parul+University;%E2%96%B8+Open+Source+Enthusiast+%7C+Builder" alt="Typing Animation"/>
 </a>
+
+<br/>
+
+<!-- Badges Row -->
+<a href="https://github.com/nirmay1-creator"><img src="https://komarev.com/ghpvc/?username=nirmay1-creator&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&abbreviated=true" alt="Views"/></a>
+&nbsp;
+<a href="https://github.com/nirmay1-creator?tab=followers"><img src="https://img.shields.io/github/followers/nirmay1-creator?style=for-the-badge&color=7C3AED&labelColor=0F172A&label=FOLLOWERS" alt="Followers"/></a>
+&nbsp;
+<a href="https://github.com/nirmay1-creator"><img src="https://img.shields.io/github/stars/nirmay1-creator?affiliations=OWNER&style=for-the-badge&color=A855F7&labelColor=0F172A&label=TOTAL+STARS" alt="Stars"/></a>
 
 <br/><br/>
 
-<!-- Badges -->
-<a href="https://github.com/nirmay1-creator">
-<img src="https://komarev.com/ghpvc/?username=nirmay1-creator&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-</a>
-&nbsp;
-<a href="https://github.com/nirmay1-creator?tab=followers">
-<img src="https://img.shields.io/github/followers/nirmay1-creator?style=for-the-badge&color=7C3AED&labelColor=0F172A&label=FOLLOWERS" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/nirmay1-creator">
-<img src="https://img.shields.io/github/stars/nirmay1-creator?affiliations=OWNER&style=for-the-badge&color=A855F7&labelColor=0F172A&label=TOTAL+STARS" alt="Stars"/>
-</a>
+<!-- Anime GIF -->
+<img src="https://i.imgur.com/QJnfoQc.gif" width="400" alt="Cyberpunk Anime"/>
 
 <br/><br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  ABOUT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░  ABOUT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/icons/security.svg" width="28" alt=""/>
-
-## 「 SYSTEM://ABOUT 」
+## 「 ⚡ SYSTEM://ABOUT 」
 
 <sub>▸ IDENTITY MODULE LOADED ▸ CLEARANCE LEVEL: MAXIMUM</sub>
 
@@ -52,127 +49,42 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="55%" valign="top" align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="Terminal Card"/>
+<img src="assets/terminal.svg" width="100%" alt="Terminal — whoami"/>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
 <img src="assets/profile-card.svg" width="100%" alt="Profile Card"/>
 
+<br/>
+
+> *「 I alone am the honored one. 」*
+> — **Gojo Satoru** · Jujutsu Kaisen
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 <br/>
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░  CURRENT MISSION  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/icons/mission.svg" width="28" alt=""/>
-
-## 「 CURRENT://MISSION 」
-
-<sub>▸ ACTIVE OPERATIONS ▸ STATUS: IN PROGRESS</sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="200">
-
-**⚖️ JusticeFlowX**
-<br/>
-<sub>Digital Forensics<br/>Automation Platform</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square&labelColor=0F172A" alt="Active"/>
-
-</td>
-<td align="center" width="200">
-
-**🤖 JusticeGPT**
-<br/>
-<sub>AI-Powered Legal<br/>Research Assistant</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=flat-square&labelColor=0F172A" alt="Building"/>
-
-</td>
-<td align="center" width="200">
-
-**🛡️ Rakshika**
-<br/>
-<sub>Women Safety<br/>Application</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square&labelColor=0F172A" alt="Active"/>
-
-</td>
-<td align="center" width="200">
-
-**🔐 Forensics Lab**
-<br/>
-<sub>Digital Forensics<br/>Investigation Tools</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-REFINING-A855F7?style=flat-square&labelColor=0F172A" alt="Refining"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-**💬 AI Chatbot**
-<br/>
-<sub>Intelligent<br/>Conversational Agent</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=flat-square&labelColor=0F172A" alt="Building"/>
-
-</td>
-<td align="center" width="200">
-
-**✈️ Semester Exchange**
-<br/>
-<sub>International Study<br/>Journey</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/STATUS-ONGOING-4D7CFF?style=flat-square&labelColor=0F172A" alt="Ongoing"/>
-
-</td>
-<td align="center" colspan="2">
-
-**📚 Currently Learning**
-<br/><br/>
-`MERN` `Spring Boot` `Cloud` `Docker` `Kubernetes` `Reverse Engineering` `Advanced AI`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="assets/divider.svg" width="600" alt="divider"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="assets/icons/code.svg" width="28" alt=""/>
-
-## 「 TECH://ARSENAL 」
+## 「 🗡️ TECH://ARSENAL 」
 
 <sub>▸ WEAPONS CACHE ▸ ALWAYS EXPANDING</sub>
 
 <br/><br/>
 
-**`▸ LANGUAGES`**
+**`▸ PROGRAMMING LANGUAGES`**
 
 <img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts,c,html,css&theme=dark" alt="Languages"/>
 
@@ -184,7 +96,7 @@
 
 <br/><br/>
 
-**`▸ AI / ML`**
+**`▸ AI / MACHINE LEARNING`**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML"/>
 
@@ -192,7 +104,7 @@
 
 **`▸ DATABASES & CLOUD`**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,docker,aws,gcp,vercel&theme=dark" alt="Databases & Cloud"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,docker,aws,gcp,vercel&theme=dark" alt="DB/Cloud"/>
 
 <br/><br/>
 
@@ -204,23 +116,21 @@
 
 **`▸ SECURITY TOOLS`**
 
-`Wireshark` `Burp Suite` `Nmap` `Metasploit` `Autopsy` `Volatility` `Ghidra` `John the Ripper`
+`Wireshark` `Burp Suite` `Nmap` `Metasploit` `Autopsy` `Volatility` `Ghidra` `John the Ripper` `Hashcat`
 
 <br/><br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/icons/project.svg" width="28" alt=""/>
-
-## 「 FEATURED://PROJECTS 」
+## 「 🚀 FEATURED://PROJECTS 」
 
 <sub>▸ MISSION-CRITICAL DEPLOYMENTS ▸ FIELD-TESTED</sub>
 
@@ -228,6 +138,7 @@
 
 <br/>
 
+<!-- PROJECT 1: JusticeFlowX -->
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -235,63 +146,105 @@
 <div align="center">
 
 ### ⚖️ JusticeFlowX
+
 **Digital Forensics Investigation Platform**
 
 </div>
 
-AI-powered forensic analysis with chain-of-custody tracking, evidence integrity scanning, automated report generation, and interactive case dashboards.
+A web-based fingerprint crime verification system simulating biometric identity authentication for law enforcement. Scan fingerprints, verify identities, check criminal records, with infrastructure logs for transparency and secure digital justice workflows.
+
+**Key Features:**
+- 🔍 Biometric Identity Authentication
+- 📋 Chain-of-Custody Tracking
+- 🛡️ Evidence Integrity Scanning
+- 📊 Interactive Case Dashboards
+- 📝 Automated Report Generation
+
+<div align="center">
+
+`HTML` `CSS` `JavaScript` `Python` `FastAPI`
 
 <br/>
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/▸_SOURCE_CODE-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0F172A)](https://github.com/nirmay1-creator/JusticeFlowX)
+[![Live Demo](https://img.shields.io/badge/▸_LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A)](https://nirmay1-creator.github.io/JusticeFlowX/)
 
-`React` `Node.js` `MongoDB` `FastAPI` `Python`
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square&labelColor=0F172A" alt="Active"/>
 
-[![View Project](https://img.shields.io/badge/▸_VIEW_PROJECT-00E5FF?style=for-the-badge&logoColor=black&labelColor=0F172A)](https://github.com/nirmay1-creator)
 </div>
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤖 JusticeGPT
-**AI-Powered Legal Research Assistant**
-
-</div>
-
-Intelligent legal research assistant leveraging LLMs for case law analysis, precedent matching, document summarization, and automated legal brief generation.
-
-<br/>
-
-<div align="center">
-
-`Python` `OpenAI` `LangChain` `React` `FastAPI`
-
-[![View Project](https://img.shields.io/badge/▸_VIEW_PROJECT-7C3AED?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://github.com/nirmay1-creator)
-</div>
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
 ### 🛡️ Rakshika
+
 **Women Safety Application**
 
 </div>
 
-Emergency SOS with live GPS tracking, AI-powered safety chat assistant, real-time location sharing with trusted contacts, and danger zone alerts.
+Emergency SOS with live GPS tracking, AI-powered safety chat assistant, real-time location sharing with trusted contacts, and intelligent danger zone alerts for comprehensive protection.
 
-<br/>
+**Key Features:**
+- 🆘 One-Tap Emergency SOS
+- 📍 Live GPS Location Tracking
+- 🤖 AI Safety Chat Assistant
+- 👥 Trusted Contact Sharing
+- ⚠️ Danger Zone Alerts
 
 <div align="center">
 
-`React` `JavaScript` `Firebase` `AI Chat` `Maps API`
+`TypeScript` `React` `Firebase` `AI Chat` `Maps API`
 
-[![View Project](https://img.shields.io/badge/▸_VIEW_PROJECT-A855F7?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://github.com/nirmay1-creator)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/▸_SOURCE_CODE-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0F172A)](https://github.com/nirmay1-creator/Rakshika)
+[![Live Demo](https://img.shields.io/badge/▸_LIVE_DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A)](https://nirmay1-creator.github.io/Rakshika/)
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square&labelColor=0F172A" alt="Active"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 2: MedAssist + PhishGuard -->
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏥 MedAssist AI
+
+**AI-Powered Medical Assistant**
+
+</div>
+
+Intelligent medical assistant leveraging AI for symptom analysis, health recommendations, medical knowledge Q&A, and personalized health insights to make healthcare more accessible.
+
+**Key Features:**
+- 🩺 AI Symptom Analysis
+- 💊 Health Recommendations
+- 📚 Medical Knowledge Base
+- 🔬 Personalized Health Insights
+- 💬 Natural Language Interface
+
+<div align="center">
+
+`TypeScript` `React` `AI/ML` `Node.js` `TailwindCSS`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/▸_SOURCE_CODE-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/nirmay1-creator/MedAssist-AI)
+[![Live Demo](https://img.shields.io/badge/▸_LIVE_DEMO-4D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A)](https://nirmay1-creator.github.io/MedAssist-AI/)
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square&labelColor=0F172A" alt="Active"/>
+
 </div>
 
 </td>
@@ -299,20 +252,32 @@ Emergency SOS with live GPS tracking, AI-powered safety chat assistant, real-tim
 
 <div align="center">
 
-### 🔐 Digital Forensics Platform
-**Investigation & Analysis Suite**
+### 🎣 PhishGuard AI
+
+**Phishing URL Detection System**
 
 </div>
 
-Comprehensive digital forensics toolkit for disk imaging, memory analysis, network traffic inspection, and automated evidence collection with Autopsy integration.
+ML-powered real-time phishing URL classification with risk scoring, threat analysis, and URL reputation checks to protect users from malicious websites and social engineering attacks.
 
-<br/>
+**Key Features:**
+- 🔗 Real-Time URL Analysis
+- 🧠 ML-Powered Classification
+- 📊 Risk Score Assessment
+- 🛡️ Threat Intelligence
+- ⚡ Instant Detection
 
 <div align="center">
 
-`Python` `Autopsy` `Volatility` `Wireshark` `Docker`
+`TypeScript` `React` `Machine Learning` `Node.js`
 
-[![View Project](https://img.shields.io/badge/▸_VIEW_PROJECT-4D7CFF?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://github.com/nirmay1-creator)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/▸_SOURCE_CODE-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/nirmay1-creator/Phising-Url-Detector)
+[![Live Demo](https://img.shields.io/badge/▸_LIVE_DEMO-4D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A)](https://nirmay1-creator.github.io/Phising-Url-Detector/)
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square&labelColor=0F172A" alt="Active"/>
+
 </div>
 
 </td>
@@ -321,63 +286,60 @@ Comprehensive digital forensics toolkit for disk imaging, memory analysis, netwo
 
 <div align="center">
 <br/>
-<img src="assets/divider.svg" width="600" alt="divider"/>
+
+> *「 All other projects 」* → [![Explore All Repos](https://img.shields.io/badge/▸_EXPLORE_ALL_REPOS-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/nirmay1-creator?tab=repositories)
+
+<br/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░  GITHUB STATISTICS  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░  GITHUB STATISTICS  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/icons/stats.svg" width="28" alt=""/>
-
-## 「 STATS://DASHBOARD 」
+## 「 📊 STATS://DASHBOARD 」
 
 <sub>▸ PERFORMANCE METRICS ▸ REAL-TIME DATA</sub>
 
 <br/><br/>
 
-<!-- Stats Row 1 -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=09090B&title_color=00E5FF&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&cache_seconds=86400" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmay1-creator&hide_border=true&background=09090B&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" alt="Streak Stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=nirmay1-creator&hide_border=true&background=09090B&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4D7CFF&stroke=0F172A" alt="Streak Stats"/>
 
 <br/><br/>
 
-<!-- Top Languages -->
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=09090B&title_color=00E5FF&text_color=ffffff&cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Profile Summary -->
-<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmay1-creator&theme=github_dark" alt="Profile Summary"/>
+<img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmay1-creator&theme=github_dark" alt="Profile Summary"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&bg_color=09090B&color=00E5FF&line=7C3AED&point=A855F7&area=true&area_color=4D7CFF&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Activity Graph"/>
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&bg_color=09090B&color=00E5FF&line=7C3AED&point=A855F7&area=true&area_color=4D7CFF&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Activity Graph"/>
 
 <br/><br/>
 
-<!-- Trophies -->
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=nirmay1-creator&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+<img width="830" src="https://github-profile-trophy.vercel.app/?username=nirmay1-creator&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 <br/><br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░  SNAKE ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░  SNAKE ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 「 SNAKE://ANIMATION 」
+## 「 🐍 SNAKE://ANIMATION 」
 
-<sub>▸ CONTRIBUTION VISUALIZATION ▸ UPDATED EVERY 12H</sub>
+<sub>▸ CONTRIBUTION GRID VISUALIZATION ▸ UPDATES EVERY 12H</sub>
 
 <br/><br/>
 
@@ -389,86 +351,45 @@ Comprehensive digital forensics toolkit for disk imaging, memory analysis, netwo
 
 <br/><br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░  COMPETITIVE PROGRAMMING  ░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░  LEETCODE DASHBOARD  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/icons/trophy.svg" width="28" alt=""/>
+## 「 ⚔️ LEETCODE://ARENA 」
 
-## 「 COMPETITIVE://ARENA 」
-
-<sub>▸ BATTLE RECORDS ▸ ALGORITHM WARFARE</sub>
+<sub>▸ ALGORITHM WARFARE ▸ COMPETITIVE PROGRAMMING</sub>
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="150">
+<a href="https://leetcode.com/u/NirmaYy/">
+<img width="400" src="https://leetcard.jacoblin.cool/NirmaYy?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nirmay1-creator)
-<br/>
-<sub>Problem Solver</sub>
+<br/><br/>
 
-</td>
-<td align="center" width="150">
+<a href="https://leetcode.com/u/NirmaYy/">
+<img src="https://img.shields.io/badge/▸_VIEW_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0F172A" alt="LeetCode"/>
+</a>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/nirmay1)
-<br/>
-<sub>Competitive Coder</sub>
+<br/><br/>
 
-</td>
-<td align="center" width="150">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nirmay1-creator)
-<br/>
-<sub>Algorithm Warrior</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/nirmay1)
-<br/>
-<sub>Skill Badges</sub>
-
-</td>
-<td align="center" width="150">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/nirmay1)
-<br/>
-<sub>Cyber Warrior</sub>
-
-</td>
-<td align="center" width="150">
-
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/nirmay1)
-<br/>
-<sub>Penetration Tester</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 「 ACHIEVEMENT://LOG 」
+## 「 🏆 ACHIEVEMENT://LOG 」
 
 <sub>▸ UNLOCKED MILESTONES ▸ RANK: RISING</sub>
 
@@ -476,56 +397,56 @@ Comprehensive digital forensics toolkit for disk imaging, memory analysis, netwo
 
 <table>
 <tr>
-<td align="center" width="110">
+<td align="center" width="130">
 
 🏆
 <br/>
-**Hackathon**
+<b>Hackathon</b>
 <br/>
 <sub>Finalist</sub>
 
 </td>
-<td align="center" width="110">
+<td align="center" width="130">
 
 🌐
 <br/>
-**Open Source**
+<b>Open Source</b>
 <br/>
 <sub>Contributor</sub>
 
 </td>
-<td align="center" width="110">
+<td align="center" width="130">
 
 🧮
 <br/>
-**500+**
+<b>500+</b>
 <br/>
 <sub>Problems Solved</sub>
 
 </td>
-<td align="center" width="110">
+<td align="center" width="130">
 
 🔐
 <br/>
-**Cyber Sec**
+<b>Cyber Sec</b>
 <br/>
-<sub>Projects Built</sub>
+<sub>4+ Projects</sub>
 
 </td>
-<td align="center" width="110">
+<td align="center" width="130">
 
 🤖
 <br/>
-**AI/ML**
+<b>AI / ML</b>
 <br/>
 <sub>Applications</sub>
 
 </td>
-<td align="center" width="110">
+<td align="center" width="130">
 
 🕵️
 <br/>
-**Forensics**
+<b>Forensics</b>
 <br/>
 <sub>Systems Built</sub>
 
@@ -535,222 +456,161 @@ Comprehensive digital forensics toolkit for disk imaging, memory analysis, netwo
 
 <br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  ROADMAP  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  ROADMAP  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 「 ROADMAP://2026 」
+## 「 🗺️ ROADMAP://2026 」
 
 <sub>▸ SKILL TREE ▸ NEXT LEVEL TARGETS</sub>
 
 <br/><br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   ▸ Cloud Architecture        ████████████░░░░░░░  65%       ║
-  ║   ▸ Kubernetes & DevOps       ██████████░░░░░░░░░  55%       ║
-  ║   ▸ Reverse Engineering       ████████░░░░░░░░░░░  40%       ║
-  ║   ▸ Advanced AI/ML            ████████████████░░░  80%       ║
-  ║   ▸ Malware Analysis          ██████░░░░░░░░░░░░░  30%       ║
-  ║   ▸ Blockchain Security       ████░░░░░░░░░░░░░░░  20%       ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║                                                                   ║
+  ║   ▸ Advanced AI / Deep Learning    ████████████████░░░░  80%      ║
+  ║   ▸ Cloud Architecture (AWS/GCP)   ████████████░░░░░░░░  65%      ║
+  ║   ▸ Kubernetes & DevOps            ██████████░░░░░░░░░░  55%      ║
+  ║   ▸ MERN & Spring Boot Mastery     ██████████████░░░░░░  70%      ║
+  ║   ▸ Reverse Engineering            ████████░░░░░░░░░░░░  40%      ║
+  ║   ▸ Malware Analysis               ██████░░░░░░░░░░░░░░  30%      ║
+  ║   ▸ Blockchain Security            ████░░░░░░░░░░░░░░░░  20%      ║
+  ║                                                                   ║
+  ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  QUOTES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░  QUOTES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 「 QUOTES://TERMINAL 」
+## 「 💬 QUOTES://TERMINAL 」
 
 <br/>
 
-<!-- Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="500"/>
 
 <br/><br/>
 
-> *「 I alone am the honored one. 」*
+> *「 Arise. 」*
 >
-> — **Gojo Satoru** · *Jujutsu Kaisen*
+> — **Sung Jin-Woo** · Solo Leveling
 
 <br/>
 
-> *「 First, solve the problem. Then, write the code. 」*
+> *「 I'll surpass my limits right here, right now. 」*
 >
-> — **John Johnson**
+> — **Yami Sukehiro** · Black Clover
 
 <br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  SPOTIFY  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░  FUN FACTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 「 SPOTIFY://NOW_PLAYING 」
-
-<br/>
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://img.shields.io/badge/🎧_Spotify-Connect_to_Activate-1DB954?style=for-the-badge&labelColor=0F172A" alt="Spotify"/>
-</a>
-
-<sub>
-
-*Deploy [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) to activate live now playing*
-
-</sub>
-
-<br/><br/>
-
-<img src="assets/divider.svg" width="600" alt="divider"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  FUN FACTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 「 FUN://FACTS 」
+## 「 🎮 FUN://FACTS 」
 
 <br/>
 
 ```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║   ⚡  I debug with dark mode because light attracts bugs  ║
-  ║   🎮  Cyberpunk 2077 & NieR:Automata are my aesthetics   ║
-  ║   📺  Solo Leveling & JJK fuel my coding sessions        ║
-  ║   ☕  Coffee.exe is my most-used dependency               ║
-  ║   🌙  Peak productivity: 12 AM — 4 AM                    ║
-  ║   🔐  I break things to understand how they work         ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════╗
+  ║                                                                ║
+  ║   ⚡  I debug in dark mode — light attracts bugs               ║
+  ║   🎮  Cyberpunk 2077 & NieR:Automata = my design bible         ║
+  ║   📺  Solo Leveling & JJK fuel my 3 AM coding sessions        ║
+  ║   ☕  Coffee.exe is my most critical dependency                ║
+  ║   🌙  Peak productivity window: 12 AM — 4 AM                  ║
+  ║   🔐  I break systems to understand how they work              ║
+  ║   🎯  Goal: Build tech that protects & empowers people         ║
+  ║                                                                ║
+  ╚════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<img src="assets/divider.svg" width="600" alt="divider"/>
+<img src="assets/divider.svg" width="700" alt="═══"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░  CONNECT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░  CONNECT SECTION  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="assets/icons/connect.svg" width="28" alt=""/>
-
-## 「 CONNECT://NETWORK 」
+## 「 🔗 CONNECT://NETWORK 」
 
 <sub>▸ OPEN CHANNELS ▸ ACCEPTING CONNECTIONS</sub>
 
 <br/><br/>
 
-<!-- Primary Social -->
 <a href="https://github.com/nirmay1-creator">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://www.linkedin.com/in/nirmay-rinesh-52229237b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://nirmay1-creator.github.io/NirmayPortfolioo/">
 <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+<a href="https://leetcode.com/u/NirmaYy/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<!-- Competitive Platforms -->
-<a href="https://leetcode.com/nirmay1-creator">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-&nbsp;
-<a href="https://codechef.com/users/nirmay1">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/nirmay1-creator">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-&nbsp;
-<a href="https://hackerrank.com/nirmay1">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-</a>
-&nbsp;
-<a href="https://tryhackme.com/p/nirmay1">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
-</a>
-&nbsp;
-<a href="https://app.hackthebox.com/profile/nirmay1">
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
+<!-- Anime quote to close -->
+> *「 The only one who can beat me — is me. 」*
+>
+> — **Aomine Daiki** · Kuroko no Basket
+
+<br/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="assets/footer.svg" width="100%" alt="Footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:0F172A,50:7C3AED,75:4D7CFF,100:00E5FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,20:0a0014,40:0F172A,60:7C3AED,80:4D7CFF,100:00E5FF&height=120&section=footer" width="100%"/>
 
 </div>
 
-<!-- 
+<!--
 
   ╔═══════════════════════════════════════════════════════════════╗
   ║                                                               ║
   ║   Designed & Crafted by Nirmay Rinesh                         ║
   ║   Cyberpunk OS Theme — 2026 Edition                           ║
   ║                                                               ║
-  ║   "The future is already here — it's just not evenly          ║
-  ║    distributed."  — William Gibson                            ║
+  ║   「 Arise from the shadow. Level up. Never stop. 」           ║
   ║                                                               ║
   ╚═══════════════════════════════════════════════════════════════╝
 
