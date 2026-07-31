@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 680" width="850" height="680">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;display=swap');
       
       .bg { fill: #0d1117; rx: 15px; stroke: #7C3AED; stroke-width: 2px; }
       .bg-glow { fill: none; stroke: #A855F7; stroke-width: 6px; filter: blur(8px); rx: 15px; }
