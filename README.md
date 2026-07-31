@@ -64,7 +64,7 @@
   <br/><br/>
   <img src='https://count.getloli.com/@nirmay1-creator?name=nirmay1-creator&theme=asoul&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1' width="400px">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nirmay1-creator&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&ring_color=00ffff" width="400px" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nirmay1-creator&hide_border=true&background=0a0a1a&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ff00ff&stroke=ff00ff" width="400px" alt="Streak Stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=nirmay1-creator&hide_border=true&background=0a0a1a&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ff00ff&stroke=ff00ff" width="400px" alt="Streak Stats"/>
   <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nirmay1-creator&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=00ffff&text_color=ffffff" alt="Top Languages"/>
   <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmay1-creator&theme=tokyonight" alt="Profile Details"/>
 </p>
