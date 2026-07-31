@@ -128,6 +128,96 @@
 ---
 
 <div align="center">
+  <img src="assets/fire.gif" width="100" align="left" alt="Fire" />
+  <h2 align="center">🏆 Certifications & Achievements 🏆</h2>
+  <br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Certification</th>
+        <th align="left">Issuer</th>
+        <th align="center">Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">🛡️ <strong>Fortinet Certified Fundamentals (FCF)</strong></td>
+        <td align="left">Fortinet Training Institute</td>
+        <td align="center">Jul 2026</td>
+      </tr>
+      <tr>
+        <td align="left">☁️ <strong>Oracle Certified Foundations Associate (AI Database)</strong></td>
+        <td align="left">Oracle</td>
+        <td align="center">Jul 2026</td>
+      </tr>
+      <tr>
+        <td align="left">🔐 <strong>Application Security Analyst</strong></td>
+        <td align="left">Reliance Foundation</td>
+        <td align="center">Apr 2026</td>
+      </tr>
+      <tr>
+        <td align="left">🌐 <strong>Cybersecurity Fundamentals</strong></td>
+        <td align="left">IBM</td>
+        <td align="center">Apr 2026</td>
+      </tr>
+      <tr>
+        <td align="left">🕵️ <strong>Certified Online Fraud Prevention Specialist</strong></td>
+        <td align="left">Hack & Fix</td>
+        <td align="center">May 2026</td>
+      </tr>
+      <tr>
+        <td align="left">🛡️ <strong>CompTIA Security+</strong></td>
+        <td align="left">KodeKloud</td>
+        <td align="center">Feb 2026 – 2030</td>
+      </tr>
+      <tr>
+        <td align="left">💻 <strong>CCPP — Certified C++ Practitioner Professional</strong></td>
+        <td align="left">Red Team Leaders</td>
+        <td align="center">Feb 2026</td>
+      </tr>
+      <tr>
+        <td align="left">🎓 <strong>CCEP — Certified Cybersecurity Educator Professional</strong></td>
+        <td align="left">Red Team Leaders</td>
+        <td align="center">Feb 2026</td>
+      </tr>
+      <tr>
+        <td align="left">💼 <strong>Deloitte Cyber Job Simulation</strong></td>
+        <td align="left">Forage</td>
+        <td align="center">Apr 2026</td>
+      </tr>
+      <tr>
+        <td align="left">💼 <strong>Tata Cybersecurity Analyst Job Simulation</strong></td>
+        <td align="left">Forage</td>
+        <td align="center">Apr 2026</td>
+      </tr>
+      <tr>
+        <td align="left">🕵️‍♂️ <strong>Ethical Hacker — Course Completion</strong></td>
+        <td align="left">Cisco Networking Academy</td>
+        <td align="center">2026</td>
+      </tr>
+      <tr>
+        <td align="left">🔒 <strong>Cyber Security Course Completion</strong></td>
+        <td align="left">Smarted (STEM Accredited)</td>
+        <td align="center">2026</td>
+      </tr>
+      <tr>
+        <td align="left">🌐 <strong>Information Technology Specialist (ITS) — HTML & CSS</strong></td>
+        <td align="left">Pearson VUE / Certiport</td>
+        <td align="center">Dec 2025 – 2029</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <img src="assets/yun.png" width="120" align="right" alt="Yun" />
+  <br clear="both"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
   <img src="assets/gojo.gif" width="200" align="left" alt="Gojo" />
   <h2 align="center">🏅 Competitive Programming 🏅</h2>
   <br/>
