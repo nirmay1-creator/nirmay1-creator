@@ -34,6 +34,11 @@
   <br/><br/>
 </div>
 
+<div align="center">
+  <img src="assets/cyberpunk_banner.png" width="100%" alt="Cyberpunk Banner" style="border-radius: 15px;" />
+</div>
+<br/>
+
 <div>
   <h3>About me</h3>
 
@@ -178,6 +183,7 @@
 <hr/>
 
 <div align="center">
+  <img src="assets/anime_footer_banner.png" width="100%" alt="Anime Footer" style="border-radius: 15px;" />
   <img src="assets/footer.svg" width="100%" alt="Footer Waves" />
 </div>
 
