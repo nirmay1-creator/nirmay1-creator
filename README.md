@@ -118,13 +118,23 @@
 <hr/>
 <br/>
 
-<!-- Snake Animation -->
+<!-- Cool Cyberpunk Terminal -->
 <div align="center">
-  <h2>🐍 Contribution Snake 🐍</h2>
-  <img src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/dist/snake-dark.svg" width="100%" alt="GitHub Snake" />
+  <img src="assets/terminal.svg" width="800" alt="Cyberpunk Terminal" />
+</div>
+
+<br/>
+
+<!-- Animated Glitch Text -->
+<div align="center">
+  <img src="assets/hero-glitch.svg" width="400" alt="System Active" />
 </div>
 
 <br/>
 <hr/>
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer Waves" />
+</div>
 
 <h4 align="center">Made with <img src="assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/nirmay1-creator">Nirmay Rinesh</a></h4>
