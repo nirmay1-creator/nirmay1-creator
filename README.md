@@ -24,8 +24,8 @@
 
 <br/><br/>
 
-<!-- Anime GIF -->
-<img src="https://i.imgur.com/QJnfoQc.gif" width="400" alt="Cyberpunk Anime"/>
+<!-- Anime Style Custom SVG -->
+<img src="assets/hero-glitch.svg" width="400" alt="Cyberpunk Glitch"/>
 
 <br/><br/>
 
