@@ -1,0 +1,22 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="iconGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Central node -->
+  <circle cx="20" cy="20" r="5" fill="#4D7CFF" filter="url(#iconGlow)"/>
+  <!-- Outer nodes -->
+  <circle cx="8" cy="10" r="3" fill="#00E5FF" opacity="0.7"/>
+  <circle cx="32" cy="10" r="3" fill="#7C3AED" opacity="0.7"/>
+  <circle cx="8" cy="30" r="3" fill="#A855F7" opacity="0.7"/>
+  <circle cx="32" cy="30" r="3" fill="#00E5FF" opacity="0.7"/>
+  <!-- Connections -->
+  <g stroke="#4D7CFF" stroke-width="0.8" opacity="0.5">
+    <line x1="20" y1="20" x2="8" y2="10"/>
+    <line x1="20" y1="20" x2="32" y2="10"/>
+    <line x1="20" y1="20" x2="8" y2="30"/>
+    <line x1="20" y1="20" x2="32" y2="30"/>
+  </g>
+</svg>

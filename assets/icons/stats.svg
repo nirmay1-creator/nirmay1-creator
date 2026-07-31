@@ -1,0 +1,12 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="iconGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="6" y="10" width="4" height="22" rx="2" fill="#00E5FF" filter="url(#iconGlow)" opacity="0.6"/>
+  <rect x="14" y="6" width="4" height="26" rx="2" fill="#4D7CFF" filter="url(#iconGlow)" opacity="0.8"/>
+  <rect x="22" y="14" width="4" height="18" rx="2" fill="#7C3AED" filter="url(#iconGlow)" opacity="0.7"/>
+  <rect x="30" y="8" width="4" height="24" rx="2" fill="#A855F7" filter="url(#iconGlow)" opacity="0.9"/>
+</svg>

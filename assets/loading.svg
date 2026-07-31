@@ -1,0 +1,32 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="loadGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="loadGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer ring -->
+  <polygon points="50,15 72,28 72,55 50,68 28,55 28,28" fill="none" stroke="url(#loadGrad)" stroke-width="2" filter="url(#loadGlow)" opacity="0.6">
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="4s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Inner ring -->
+  <polygon points="50,25 64,33 64,49 50,57 36,49 36,33" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.4">
+    <animateTransform attributeName="transform" type="rotate" from="360 50 50" to="0 50 50" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Center dot -->
+  <circle cx="50" cy="42" r="4" fill="#00E5FF" filter="url(#loadGlow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

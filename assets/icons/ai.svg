@@ -1,0 +1,27 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="iconGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Neural network nodes -->
+  <circle cx="10" cy="12" r="3" fill="#A855F7" filter="url(#iconGlow)"/>
+  <circle cx="10" cy="28" r="3" fill="#A855F7" filter="url(#iconGlow)"/>
+  <circle cx="20" cy="8" r="3" fill="#7C3AED" filter="url(#iconGlow)"/>
+  <circle cx="20" cy="20" r="3" fill="#7C3AED" filter="url(#iconGlow)"/>
+  <circle cx="20" cy="32" r="3" fill="#7C3AED" filter="url(#iconGlow)"/>
+  <circle cx="30" cy="12" r="3" fill="#4D7CFF" filter="url(#iconGlow)"/>
+  <circle cx="30" cy="28" r="3" fill="#4D7CFF" filter="url(#iconGlow)"/>
+  <!-- Connections -->
+  <g stroke="#7C3AED" stroke-width="0.8" opacity="0.6">
+    <line x1="10" y1="12" x2="20" y2="8"/>
+    <line x1="10" y1="12" x2="20" y2="20"/>
+    <line x1="10" y1="28" x2="20" y2="20"/>
+    <line x1="10" y1="28" x2="20" y2="32"/>
+    <line x1="20" y1="8" x2="30" y2="12"/>
+    <line x1="20" y1="20" x2="30" y2="12"/>
+    <line x1="20" y1="20" x2="30" y2="28"/>
+    <line x1="20" y1="32" x2="30" y2="28"/>
+  </g>
+</svg>
