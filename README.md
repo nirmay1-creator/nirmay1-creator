@@ -164,10 +164,14 @@
 <hr/>
 
 <div align="center">
-  <img src="assets/mona-whisper.gif" width="150" align="right" alt="Mona" />
+  <img src="assets/mona-whisper.gif" width="120" alt="Mona" />
   <h2>🐍 Contribution Snake 🐍</h2>
-  <img src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/snake-dark.svg" width="100%" alt="GitHub Snake" />
-  <br clear="both"/>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
