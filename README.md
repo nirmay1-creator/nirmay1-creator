@@ -321,9 +321,7 @@ ML-powered real-time phishing URL classification with risk scoring, threat analy
 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=nirmay1-creator&bg_color=09090B&color=00E5FF&line=7C3AED&point=A855F7&area=true&area_color=4D7CFF&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Activity Graph"/>
 
-<br/><br/>
 
-<img width="830" src="https://github-profile-trophy.vercel.app/?username=nirmay1-creator&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 <br/><br/>
 
