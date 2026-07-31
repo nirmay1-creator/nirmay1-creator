@@ -1,17 +1,38 @@
 <div align="center">
-  <img src="assets/Kaneki.Ken.full.3157977.gif" width="100%" alt="Header" />
+  <img src="assets/ken.gif" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <h2> Hi, I'm Nirmay Rinesh! </h2>
-  
+  <!-- 🔹 TOP DIVIDER 🔹 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="divider"/>
+  </picture>
+  <br />
+
+  <!-- 🔹 NAME 🔹 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Nirmay+Rinesh;Cyber+Security+Engineer;AI+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Nirmay+Rinesh;Cyber+Security+Engineer;AI+Developer" alt="Typing animation" />
+  </picture>
+
+  <!-- 🔹 ROLE 🔹 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Parul+University;Python+%C2%B7+TypeScript+%C2%B7+React;Full+Stack+%C2%B7+Digital+Forensics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Parul+University;Python+%C2%B7+TypeScript+%C2%B7+React;Full+Stack+%C2%B7+Digital+Forensics" alt="Typing animation" />
+  </picture>
+</div>
+
+<div align="center">
+  <br/>
   <a href="https://www.linkedin.com/in/nirmay-rinesh-52229237b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://nirmay1-creator.github.io/NirmayPortfolioo/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:rineshnirmay1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/NirmaYy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <br/><br/>
 </div>
-
-<br/>
 
 <div>
   <h3>About me</h3>
@@ -107,11 +128,12 @@
 ---
 
 <div align="center">
+  <img src="assets/gojo.gif" width="200" align="left" alt="Gojo" />
   <h2 align="center">🏅 Competitive Programming 🏅</h2>
   <br/>
 
   <img src="https://leetcard.jacoblin.cool/NirmaYy?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" width="600" alt="LeetCode Stats"/>
-
+  <br clear="both"/>
 </div>
 
 <br/>
@@ -128,6 +150,16 @@
 <!-- Animated Glitch Text -->
 <div align="center">
   <img src="assets/hero-glitch.svg" width="400" alt="System Active" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <img src="assets/mona-whisper.gif" width="150" align="right" alt="Mona" />
+  <h2>🐍 Contribution Snake 🐍</h2>
+  <img src="https://raw.githubusercontent.com/nirmay1-creator/nirmay1-creator/output/dist/snake-dark.svg" width="100%" alt="GitHub Snake" />
+  <br clear="both"/>
 </div>
 
 <br/>
