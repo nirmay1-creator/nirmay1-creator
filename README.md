@@ -128,7 +128,7 @@
 ---
 
 <div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Animated Certifications" />
+  <img src="assets/certs-animated.svg" width="850" alt="Animated Certifications" />
 </div>
 
 <br/>

@@ -87,7 +87,7 @@ for i, cert in enumerate(certs):
 
 svg_content += "</svg>"
 
-with open("assets/certifications.svg", "w", encoding="utf-8") as f:
+with open("assets/certs-animated.svg", "w", encoding="utf-8") as f:
     f.write(svg_content)
     
-print("Successfully generated assets/certifications.svg")
+print("Successfully generated assets/certs-animated.svg")
