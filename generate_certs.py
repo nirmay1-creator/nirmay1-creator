@@ -14,9 +14,10 @@ certs = [
     {"name": "🕵️‍♂️ Ethical Hacker — Course Completion", "issuer": "Cisco Networking", "date": "2026"},
     {"name": "🔒 Cyber Security Course Completion", "issuer": "Smarted (STEM)", "date": "2026"},
     {"name": "🌐 ITS — HTML &amp; CSS", "issuer": "Pearson VUE", "date": "Dec 2025 – 2029"},
+    {"name": "🌐 ITS — JavaScript", "issuer": "Pearson VUE", "date": "Aug 2026 – 2029"},
 ]
 
-svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 680" width="850" height="680">
+svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 720" width="850" height="720">
   <defs>
     <style>
       
@@ -49,8 +50,8 @@ svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 680" w
   </defs>
 
   <!-- Background with glow -->
-  <rect class="bg-glow" x="10" y="10" width="830" height="660" />
-  <rect class="bg" x="10" y="10" width="830" height="660" />
+  <rect class="bg-glow" x="10" y="10" width="830" height="700" />
+  <rect class="bg" x="10" y="10" width="830" height="700" />
   
   <text x="425" y="55" class="title title-pulse">🏆 CERTIFICATIONS &amp; ACHIEVEMENTS 🏆</text>
 
